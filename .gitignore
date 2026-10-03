@@ -1,0 +1,17 @@
+# Konfigurasi pribadi
+.env
+.env.*
+!.env.example
+
+# Dependensi dan hasil build frontend
+node_modules/
+dist/
+coverage/
+
+# Log
+*.log
+
+# Hasil build backend
+/backend/api
+/backend/api.exe
+/backend/bin/

@@ -1,0 +1,6 @@
+CREATE TABLE products(
+    id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    name TEXT NOT NULL CHECK (btrim(name) <> ''),
+    price BIGINT NOT NULL CHECK (PRICE >= 0),
+    stock INTEGER NOT NULL CHECK (STOCK >= 0) 
+);
