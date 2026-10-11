@@ -10,7 +10,7 @@ export type CreatedProductInput = {
 export async function getProducts(
     signal?: AbortSignal,
 ): Promise<Product[]> {
-    const response = await fetch ('api/products',{
+    const response = await fetch ('/api/products',{
         signal,
     })
 

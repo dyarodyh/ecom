@@ -1,6 +1,11 @@
 import { useEffect, useState } from 'react'
 import { getProducts } from './api'
 import type { Product } from './types'
+import CreateProductForm from './CreateProductForm'
+
+
+
+
 
 type ProductsPageProps = {
   onAddToCart: (product: Product) => void
@@ -12,12 +17,21 @@ const rupiah = new Intl.NumberFormat('id-ID', {
   maximumFractionDigits: 0,
 })
 
+
 export default function ProductsPage({
   onAddToCart,
 }: ProductsPageProps) {
   const [products, setProducts] = useState<Product[]>([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
+
+  
+function handleProductCreated(product: Product) {
+  setProducts((currentProducts)=> [
+    ...currentProducts,
+    product,
+  ])
+}
 
   useEffect(() => {
     const controller = new AbortController()
@@ -59,6 +73,7 @@ export default function ProductsPage({
   return (
     <section>
       <h1>Produk Toko Mini</h1>
+      <CreateProductForm onCreated={handleProductCreated}/>
 
       {products.length === 0 ? (
         <p>Belum ada produk.</p>

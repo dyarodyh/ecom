@@ -46,9 +46,9 @@ func (h *Handler) List(w http.ResponseWriter, r *http.Request) {
 
 func (h *Handler) Create(w http.ResponseWriter, r *http.Request) {
 	var input struct {
-		Name  string `json: "name"`
+		Name  string `json:"name"`
 		Price *int64 `json:"price"`
-		Stock *int   `json: "stock"`
+		Stock *int   `json:"stock"`
 	}
 
 	r.Body = http.MaxBytesReader(w, r.Body, 1<<20)
@@ -69,7 +69,7 @@ func (h *Handler) Create(w http.ResponseWriter, r *http.Request) {
 		http.Error(
 			w,
 			"Body hanya boleh berisi satu objek JSON",
-			http.StatusBadGateway,
+			http.StatusBadRequest,
 		)
 		return
 	}

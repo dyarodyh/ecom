@@ -7,6 +7,7 @@ import (
 	"log"
 	"net/http"
 	"net/url"
+	"os"
 	"time"
 
 	"example.com/ecom/backend/internal/database"
@@ -24,32 +25,46 @@ func main() {
 
 func run() error {
 	// 1. Baca pengaturan dari file .env yang sudah ada.
-	values, err := godotenv.Read("../devops/.env")
-	if err != nil {
-		return errors.New(
-			"gagal membaca ../devops/.env; periksa lokasi dan format file",
-		)
+	if err := godotenv.Load("../devops/.env"); err != nil {
+		if !errors.Is(err, os.ErrNotExist) {
+			return errors.New(
+				"gagal membaca ../devops/.env; periksa format dan akses file",
+			)
+		}
 	}
 
+	// konfigurasi env
 	for _, key := range []string{
 		"POSTGRES_DB",
 		"POSTGRES_USER",
 		"POSTGRES_PASSWORD",
 	} {
-		if values[key] == "" {
-			return fmt.Errorf("%s belum diisi di devops/.env", key)
+		if os.Getenv(key) == "" {
+			return fmt.Errorf("%s belum diisi pada environment", key)
 		}
 	}
 
-	// 2. Susun alamat koneksi PostgreSQL.
+	//menggunakan alamat lokal jika di env belum diberikan
+	databaseAddr := os.Getenv("DATABASE_ADDR")
+	if databaseAddr == "" {
+		databaseAddr = "127.0.0.1:5432"
+	}
+
+	httpAddr := os.Getenv("HTTP_ADDR")
+	if httpAddr == "" {
+		httpAddr = "127.0.0.1:8080"
+	}
+
+	// alamat koneksi postgres
 	databaseURL := url.URL{
 		Scheme: "postgres",
 		User: url.UserPassword(
-			values["POSTGRES_USER"],
-			values["POSTGRES_PASSWORD"],
+			os.Getenv("POSTGRES_USER"),
+			os.Getenv("POSTGRES_PASSWORD"),
 		),
-		Host:     "127.0.0.1:5432",
-		Path:     "/" + values["POSTGRES_DB"],
+
+		Host:     databaseAddr,
+		Path:     "/" + os.Getenv("POSTGRES_DB"),
 		RawQuery: "sslmode=disable",
 	}
 
@@ -71,12 +86,12 @@ func run() error {
 	productHandler := products.NewHandler(productRepository)
 
 	server := &http.Server{
-		Addr:              "127.0.0.1:8080",
+		Addr:              httpAddr,
 		Handler:           httpapi.NewRouter(productHandler),
 		ReadHeaderTimeout: 5 * time.Second,
 	}
 
-	log.Println("Backend berjalan di http://localhost:8080")
+	log.Printf("Backend mendengarkan di %s", httpAddr)
 
 	err = server.ListenAndServe()
 	if err != nil && !errors.Is(err, http.ErrServerClosed) {
