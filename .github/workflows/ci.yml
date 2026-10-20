@@ -1,0 +1,63 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  backend:
+    name: Periksa Backend Go
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: backend
+
+    steps:
+      - name: Ambil source
+        uses: actions/checkout@v7
+
+      - name: Siapkan Go
+        uses: actions/setup-go@v7
+        with:
+          go-version-file: backend/go.mod
+
+      - name: Jalankan tes Go
+        run: go test ./...
+
+      - name: Periksa kode Go
+        run: go vet ./...
+
+      - name: Build API
+        run: go build ./cmd/api
+
+  frontend:
+    name: Periksa frontend React
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: fe
+
+    steps:
+      - name: Ambil source
+        uses: actions/checkout@v7
+
+      - name: Siapkan Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: fe/package-lock.json
+
+      - name: Pasang dependensi
+        run: npm ci
+
+      - name: Periksa style kode
+        run: npm run lint
+
+      - name: Build frontend
+        run: npm run build
