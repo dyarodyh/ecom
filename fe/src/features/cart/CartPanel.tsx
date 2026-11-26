@@ -13,7 +13,7 @@ export default function CartPanel({
 }: CartPanelProps) {
     return (
         <section>
-            <h2>Keranjang Belanja</h2>
+            <h2>Cart Belanja|||||||||||||||||</h2>
 
             {items.length === 0 ? (
                 <p>Keranjang Masih Kosong.</p>

@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="2000" viewBox="0 0 1080 2000" role="img" aria-labelledby="title desc">
+<title id="title">Indeks Ketimpangan Gender Kabupaten Musi Rawas Utara 2025</title>
+<desc id="desc">Poster berisi nilai IKG tahun 2025, tiga dimensi penyusunnya, dan tren IKG tahun 2019 hingga 2025 dengan sumber halaman.</desc>
+<defs>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#CFE4E3" stroke-width="1"/></pattern>
+ <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#124B61"/><stop offset="1" stop-color="#102E4A"/></linearGradient>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#173D4D" flood-opacity="0.11"/></filter>
+</defs>
+<rect width="1080" height="2000" fill="#EFF7F6"/><rect width="1080" height="2000" fill="url(#grid)" opacity=".58"/>
+<path d="M0 0H1080V17C860 65 662 38 470 16C287 -4 149 36 0 77Z" fill="#2E9A9B"/>
+
+<rect x="54" y="43" width="248" height="34" rx="17" fill="#D8EEEA"/>
+<text x="178" y="66" text-anchor="middle" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="800" letter-spacing="1.1" fill="#155469">INFOGRAFIS GENDER</text>
+<text x="1024" y="66" text-anchor="end" font-family="Inter,Aptos,Arial,sans-serif" font-size="15" font-weight="750" letter-spacing=".7" fill="#155469">KABUPATEN MUSI RAWAS UTARA</text>
+<text x="54" y="133" font-family="Inter,Aptos,Arial,sans-serif" font-size="42" font-weight="850" letter-spacing="-.9" fill="#123B55">INDEKS KETIMPANGAN GENDER</text>
+<text x="56" y="174" font-family="Inter,Aptos,Arial,sans-serif" font-size="24" font-weight="650" fill="#386573">IKG KABUPATEN MUSI RAWAS UTARA · 2025</text>
+
+<!-- IKG headline -->
+<rect x="54" y="202" width="972" height="238" rx="30" fill="url(#hero)" filter="url(#shadow)"/>
+<circle cx="979" cy="221" r="147" fill="#FFFFFF" opacity=".045"/>
+<circle cx="979" cy="424" r="110" fill="#33A7A1" opacity=".09"/>
+<text x="91" y="255" font-family="Inter,Aptos,Arial,sans-serif" font-size="18" font-weight="750" letter-spacing="1.6" fill="#B6DFDA">IKG 2025</text>
+<text x="85" y="354" font-family="Inter,Aptos,Arial,sans-serif" font-size="83" font-weight="850" letter-spacing="-2" fill="#FFFFFF">0,848</text>
+<text x="93" y="393" font-family="Inter,Aptos,Arial,sans-serif" font-size="17" font-weight="550" fill="#DBEEEB">Indeks Ketimpangan Gender · skala 0-1</text>
+<path d="M558 235V407" stroke="#FFFFFF" stroke-opacity=".23" stroke-width="2"/>
+<text x="612" y="254" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="800" letter-spacing="1.2" fill="#B6DFDA">PERUBAHAN DARI 2024</text>
+<rect x="610" y="275" width="333" height="76" rx="18" fill="#FFFFFF" opacity=".11"/>
+<text x="635" y="324" font-family="Inter,Aptos,Arial,sans-serif" font-size="31" font-weight="800" fill="#FFFFFF">0,838</text>
+<path d="M755 313H817" stroke="#71D3C6" stroke-width="4" stroke-linecap="round"/><path d="M807 303L819 313L807 323" fill="none" stroke="#71D3C6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="842" y="324" font-family="Inter,Aptos,Arial,sans-serif" font-size="31" font-weight="800" fill="#FFFFFF">0,848</text>
+<text x="650" y="375" font-family="Inter,Aptos,Arial,sans-serif" font-size="15" font-weight="600" fill="#DBEEEB">2024</text><text x="853" y="375" font-family="Inter,Aptos,Arial,sans-serif" font-size="15" font-weight="600" fill="#DBEEEB">2025</text>
+<text x="612" y="410" font-family="Inter,Aptos,Arial,sans-serif" font-size="16" font-weight="700" fill="#8DE1D3">Naik 0,010 poin dari 2024</text>
+
+<text x="54" y="493" font-family="Inter,Aptos,Arial,sans-serif" font-size="23" font-weight="800" letter-spacing=".2" fill="#123B55">TIGA DIMENSI PENYUSUN IKG</text>
+<text x="1024" y="493" text-anchor="end" font-family="Inter,Aptos,Arial,sans-serif" font-size="15" font-weight="600" fill="#607982">Indikator kabupaten · 2025</text>
+
+<!-- cards -->
+<g filter="url(#shadow)">
+ <rect x="46" y="525" width="310" height="650" rx="24" fill="#FFFFFF"/>
+ <rect x="385" y="525" width="310" height="650" rx="24" fill="#FFFFFF"/>
+ <rect x="724" y="525" width="310" height="650" rx="24" fill="#FFFFFF"/>
+</g>
+<!-- health -->
+<path d="M70 525H332Q356 525 356 549V619H46V549Q46 525 70 525Z" fill="#D6685B"/>
+<circle cx="320" cy="572" r="23" fill="#FFFFFF" opacity=".2"/>
+<text x="320" y="578" text-anchor="middle" font-family="Inter,Aptos,Arial,sans-serif" font-size="15" font-weight="850" fill="#FFFFFF">01</text>
+<text x="69" y="559" font-family="Inter,Aptos,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="1.3" fill="#FFE7E1">DIMENSI</text>
+<text x="69" y="593" font-family="Inter,Aptos,Arial,sans-serif" font-size="20" font-weight="800" fill="#FFFFFF">Kesehatan reproduksi</text>
+<text x="68" y="653" font-family="Inter,Aptos,Arial,sans-serif" font-size="13" font-weight="850" letter-spacing=".8" fill="#A84C43">MTF</text>
+<text x="68" y="711" font-family="Inter,Aptos,Arial,sans-serif" font-size="48" font-weight="850" letter-spacing="-1.5" fill="#143D56">36,8%</text>
+<text x="68" y="741" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="650" fill="#405F68">Melahirkan di luar fasilitas</text>
+<text x="68" y="763" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="550" fill="#607982">Perempuan pernah kawin usia 15-49</text>
+<text x="68" y="784" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="550" fill="#607982">yang melahirkan anak lahir hidup</text>
+<text x="68" y="805" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="550" fill="#607982">dalam 2 tahun terakhir tidak di faskes.</text>
+<path d="M68 832H334" stroke="#E6ECEC" stroke-width="2"/>
+<text x="68" y="867" font-family="Inter,Aptos,Arial,sans-serif" font-size="13" font-weight="850" letter-spacing=".8" fill="#A84C43">MHPK20</text>
+<text x="68" y="924" font-family="Inter,Aptos,Arial,sans-serif" font-size="48" font-weight="850" letter-spacing="-1.5" fill="#143D56">35,7%</text>
+<text x="68" y="954" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="650" fill="#405F68">Melahirkan pertama sebelum 20</text>
+<text x="68" y="976" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="550" fill="#607982">Proporsi perempuan pernah kawin</text>
+<text x="68" y="997" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="550" fill="#607982">usia 15-49 yang melahirkan anak</text>
+<text x="68" y="1018" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="550" fill="#607982">pertama sebelum usia 20 tahun.</text>
+<rect x="68" y="1071" width="265" height="42" rx="21" fill="#FBECE9"/>
+<text x="200" y="1097" text-anchor="middle" font-family="Inter,Aptos,Arial,sans-serif" font-size="13" font-weight="750" fill="#A84C43">Indikator khusus perempuan</text>
+
+<!-- empowerment -->
+<path d="M409 525H671Q695 525 695 549V619H385V549Q385 525 409 525Z" fill="#6458A6"/>
+<circle cx="659" cy="572" r="23" fill="#FFFFFF" opacity=".2"/>
+<text x="659" y="578" text-anchor="middle" font-family="Inter,Aptos,Arial,sans-serif" font-size="15" font-weight="850" fill="#FFFFFF">02</text>
+<text x="408" y="559" font-family="Inter,Aptos,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="1.3" fill="#E2DDF9">DIMENSI</text>
+<text x="408" y="593" font-family="Inter,Aptos,Arial,sans-serif" font-size="20" font-weight="800" fill="#FFFFFF">Pemberdayaan</text>
+<text x="408" y="652" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="750" fill="#405F68">Anggota legislatif</text>
+<text x="408" y="697" font-family="Inter,Aptos,Arial,sans-serif" font-size="26" font-weight="850" fill="#143D56">100%</text>
+<text x="408" y="719" font-family="Inter,Aptos,Arial,sans-serif" font-size="13" font-weight="650" fill="#607982">laki-laki</text>
+<text x="554" y="697" font-family="Inter,Aptos,Arial,sans-serif" font-size="26" font-weight="850" fill="#D6688A">0%</text>
+<text x="554" y="719" font-family="Inter,Aptos,Arial,sans-serif" font-size="13" font-weight="650" fill="#607982">perempuan</text>
+<rect x="408" y="735" width="264" height="14" rx="7" fill="#F2EFFE"/><rect x="408" y="735" width="264" height="14" rx="7" fill="#6458A6"/>
+<text x="408" y="772" font-family="Inter,Aptos,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#607982">DPRD: 25 laki-laki · 0 perempuan</text>
+<path d="M408 798H672" stroke="#E6ECEC" stroke-width="2"/>
+<text x="408" y="832" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="800" fill="#405F68">Pendidikan minimal SMA</text>
+<text x="408" y="853" font-family="Inter,Aptos,Arial,sans-serif" font-size="12.5" font-weight="550" fill="#607982">Penduduk usia 25 tahun ke atas</text>
+<text x="408" y="889" font-family="Inter,Aptos,Arial,sans-serif" font-size="13" font-weight="650" fill="#607982">Laki-laki</text>
+<text x="672" y="889" text-anchor="end" font-family="Inter,Aptos,Arial,sans-serif" font-size="15" font-weight="800" fill="#143D56">34,54%</text>
+<rect x="408" y="900" width="264" height="12" rx="6" fill="#F2EFFE"/><rect x="408" y="900" width="228" height="12" rx="6" fill="#6458A6"/>
+<text x="408" y="951" font-family="Inter,Aptos,Arial,sans-serif" font-size="13" font-weight="650" fill="#607982">Perempuan</text>
+<text x="672" y="951" text-anchor="end" font-family="Inter,Aptos,Arial,sans-serif" font-size="15" font-weight="800" fill="#D6688A">24,20%</text>
+<rect x="408" y="962" width="264" height="12" rx="6" fill="#F2EFFE"/><rect x="408" y="962" width="160" height="12" rx="6" fill="#D6688A"/>
+<rect x="408" y="1010" width="264" height="46" rx="14" fill="#F4F1FF"/>
+<text x="540" y="1030" text-anchor="middle" font-family="Inter,Aptos,Arial,sans-serif" font-size="12" font-weight="650" fill="#65599E">Selisih pendidikan</text>
+<text x="540" y="1048" text-anchor="middle" font-family="Inter,Aptos,Arial,sans-serif" font-size="15" font-weight="850" fill="#493F86">10,34 poin persentase</text>
+
+<!-- labour -->
+<path d="M748 525H1010Q1034 525 1034 549V619H724V549Q724 525 748 525Z" fill="#19847D"/>
+<circle cx="998" cy="572" r="23" fill="#FFFFFF" opacity=".2"/>
+<text x="998" y="578" text-anchor="middle" font-family="Inter,Aptos,Arial,sans-serif" font-size="15" font-weight="850" fill="#FFFFFF">03</text>
+<text x="747" y="559" font-family="Inter,Aptos,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="1.3" fill="#CDEFE9">DIMENSI</text>
+<text x="747" y="593" font-family="Inter,Aptos,Arial,sans-serif" font-size="20" font-weight="800" fill="#FFFFFF">Pasar tenaga kerja</text>
+<text x="747" y="652" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="750" fill="#405F68">TPAK menurut jenis kelamin</text>
+<text x="747" y="692" font-family="Inter,Aptos,Arial,sans-serif" font-size="13" font-weight="650" fill="#607982">Laki-laki</text>
+<text x="1010" y="692" text-anchor="end" font-family="Inter,Aptos,Arial,sans-serif" font-size="18" font-weight="850" fill="#143D56">85,10%</text>
+<rect x="747" y="704" width="263" height="18" rx="9" fill="#E7F2F0"/><rect x="747" y="704" width="224" height="18" rx="9" fill="#19847D"/>
+<text x="747" y="779" font-family="Inter,Aptos,Arial,sans-serif" font-size="13" font-weight="650" fill="#607982">Perempuan</text>
+<text x="1010" y="779" text-anchor="end" font-family="Inter,Aptos,Arial,sans-serif" font-size="18" font-weight="850" fill="#D6688A">55,67%</text>
+<rect x="747" y="791" width="263" height="18" rx="9" fill="#E7F2F0"/><rect x="747" y="791" width="146" height="18" rx="9" fill="#D6688A"/>
+<rect x="747" y="850" width="263" height="105" rx="19" fill="#EAF6F4"/>
+<text x="878" y="895" text-anchor="middle" font-family="Inter,Aptos,Arial,sans-serif" font-size="33" font-weight="850" fill="#146E69">29,43</text>
+<text x="878" y="922" text-anchor="middle" font-family="Inter,Aptos,Arial,sans-serif" font-size="13" font-weight="750" fill="#426D70">poin persentase selisih TPAK</text>
+<text x="747" y="1000" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="650" fill="#405F68">TPAK adalah persentase angkatan</text>
+<text x="747" y="1023" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="550" fill="#607982">kerja terhadap penduduk usia kerja.</text>
+<text x="747" y="1085" font-family="Inter,Aptos,Arial,sans-serif" font-size="12.5" font-weight="650" fill="#607982">Skala batang: 0-100%</text>
+
+<!-- annual IKG trend -->
+<rect x="46" y="1220" width="988" height="492" rx="28" fill="#FFFFFF" filter="url(#shadow)"/>
+<text x="78" y="1271" font-family="Inter,Aptos,Arial,sans-serif" font-size="22" font-weight="850" fill="#123B55">PERKEMBANGAN IKG TAHUN KE TAHUN</text>
+<text x="78" y="1300" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="600" fill="#607982">Kabupaten Musi Rawas Utara · nilai lebih rendah menunjukkan ketimpangan lebih rendah</text>
+<text x="1000" y="1271" text-anchor="end" font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="800" fill="#D6685B">2019-2025</text>
+<!-- grid and axis -->
+<path d="M148 1370H1000M148 1465H1000M148 1560H1000" stroke="#DCE9E8" stroke-width="1.5" stroke-dasharray="5 7"/>
+<text x="132" y="1375" text-anchor="end" font-family="Inter,Aptos,Arial,sans-serif" font-size="12" font-weight="650" fill="#8AA0A3">0,90</text>
+<text x="132" y="1470" text-anchor="end" font-family="Inter,Aptos,Arial,sans-serif" font-size="12" font-weight="650" fill="#8AA0A3">0,75</text>
+<text x="132" y="1565" text-anchor="end" font-family="Inter,Aptos,Arial,sans-serif" font-size="12" font-weight="650" fill="#8AA0A3">0,60</text>
+<!-- IKG line: scale 0.55 to 0.90 -->
+<path d="M190 1520L320 1514L450 1524L580 1525L710 1521L840 1409L970 1403" fill="none" stroke="#D6685B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#FFFFFF" stroke="#D6685B" stroke-width="4">
+ <circle cx="190" cy="1520" r="8"/><circle cx="320" cy="1514" r="8"/><circle cx="450" cy="1524" r="8"/><circle cx="580" cy="1525" r="8"/><circle cx="710" cy="1521" r="8"/><circle cx="840" cy="1409" r="8"/>
+</g>
+<circle cx="970" cy="1403" r="14" fill="#FCE9E5"/><circle cx="970" cy="1403" r="8" fill="#D6685B"/>
+<g font-family="Inter,Aptos,Arial,sans-serif" font-size="13" font-weight="800" fill="#284F5E" text-anchor="middle">
+ <text x="190" y="1495">0,663</text><text x="320" y="1489">0,672</text><text x="450" y="1499">0,657</text><text x="580" y="1500">0,656</text><text x="710" y="1496">0,662</text><text x="840" y="1384">0,838</text><text x="970" y="1378" fill="#B24F45">0,848</text>
+</g>
+<g font-family="Inter,Aptos,Arial,sans-serif" font-size="14" font-weight="750" fill="#526D75" text-anchor="middle">
+ <text x="190" y="1594">2019</text><text x="320" y="1594">2020</text><text x="450" y="1594">2021</text><text x="580" y="1594">2022</text><text x="710" y="1594">2023</text><text x="840" y="1594">2024</text><text x="970" y="1594">2025</text>
+</g>
+<rect x="78" y="1630" width="924" height="50" rx="16" fill="#FCEFEB"/>
+<circle cx="106" cy="1655" r="11" fill="#D6685B"/><path d="M101 1655L105 1659L112 1650" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="129" y="1661" font-family="Inter,Aptos,Arial,sans-serif" font-size="15" font-weight="750" fill="#81453F">IKG 2025 naik 0,010 poin dari 2024 (0,838).</text>
+
+<!-- precise source line -->
+<rect x="46" y="1740" width="988" height="188" rx="22" fill="#DCEDEA"/>
+<text x="74" y="1777" font-family="Inter,Aptos,Arial,sans-serif" font-size="13" font-weight="850" letter-spacing="1.2" fill="#155469">SUMBER DATA &amp; HALAMAN</text>
+<text x="74" y="1808" font-family="Inter,Aptos,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#345761">IKG tahunan: BPS, Indeks Ketimpangan Gender 2025, Lampiran 2 hlm. 130 (PDF hlm. 154).</text>
+<text x="74" y="1833" font-family="Inter,Aptos,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#345761">Komponen 2025: publikasi yang sama, Lampiran 4 hlm. 149 (PDF hlm. 173); definisi: Tabel 1.1 hlm. 9 (PDF hlm. 33).</text>
+<text x="74" y="1858" font-family="Inter,Aptos,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#345761">Jumlah DPRD: Musi Rawas Utara Dalam Angka 2026, Tabel 2.2.1 hlm. 27 (PDF hlm. 60).</text>
+<text x="74" y="1896" font-family="Inter,Aptos,Arial,sans-serif" font-size="12" font-weight="600" fill="#607982">Rancangan infografis berbasis data BPS · bukan publikasi resmi BPS</text>
+<text x="1026" y="1968" text-anchor="end" font-family="Inter,Aptos,Arial,sans-serif" font-size="12" font-weight="700" fill="#6C888E">MURATARA · IKG 2025</text>
+</svg>

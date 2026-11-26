@@ -1,0 +1,3667 @@
+                                                                      Katalog: 4101002.xxxx
+                                                                      ISSN xxxx.xxxx
+
+BADAN PUSAT STATISTIK
+(NAMA KABUPATEN/KOTA)
+2
+STATISTIK KESEJAHTERAAN RAKYAT
+ KABUPATEN MUSI RAWAS UTARA
+
+                   2026
+
+                 Volume 11, 2026
+
+                          BADAN PUSAT STATISTIK
+                          KABUPATEN MUSI RAWAS UTARA
+STATISTIK KESEJAHTERAAN RAKYAT
+KABUPATEN MUSI RAWAS UTARA 2026
+
+Volume 11, 2026
+
+Katalog: 4101002.1613
+ISSN: 2723-8504
+Nomor Publikasi:
+
+Ukuran Buku: 18,2 cm x 25,7 cm
+Jumlah Halaman: xx+169 halaman
+
+Penyusun Naskah:
+Badan Pusat Statistik Kabupaten Musi Rawas Utara
+
+Penyunting:
+Badan Pusat Statistik Kabupaten Musi Rawas Utara
+
+Pembuat Kover:
+Badan Pusat Statistik Kabupaten Musi Rawas Utara
+
+Penerbit:
+©Badan Pusat Statistik Kabupaten Musi Rawas Utara
+
+Pencetak:
+Badan Pusat Statistik Kabupaten Musi Rawas Utara
+
+Sumber Ilustrasi:
+canva.com
+
+Dilarang mereproduksi dan/atau menggandakan sebagian atau seluruh isi buku
+ini untuk tujuan komersial tanpa izin tertulis dari BPS Kabupaten Musi Rawas
+Utara
+
+ii
+                                                                                    ISSN 2723-8504
+
+                            TIM PENYUSUN
+
+      Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara
+                                      Volume 11, 2026
+
+Pengarah:
+Eko Tris Darmanto
+Penanggung jawab:
+Eko Tris Darmanto
+Penyunting:
+Aditya Firman Baktiar
+Pengolah data:
+Badan Pusat Statistik
+Penulis naskah:
+Aditya Firman Baktiar
+Reny Dyah Kurniawati
+Penata letak:
+Aditya Firman Baktiar
+Reny Dyah Kurniawati
+Pembuat Infografis:
+Reny Dyah Kurniawati
+
+                                                                                                         iii
+iv
+                          KATA PENGANTAR
+
+       Pembangunan yang berorientasi pada peningkatan kesejahteraan
+masyarakat memerlukan dukungan data yang akurat, terpercaya, dan terkini.
+Data menjadi salah satu landasan penting dalam merumuskan kebijakan,
+menentukan prioritas pembangunan, serta mengevaluasi capaian program
+pemerintah. Salah satu sumber data yang dapat digunakan untuk
+menggambarkan kondisi sosial ekonomi masyarakat adalah Survei Sosial
+Ekonomi Nasional (Susenas), yang secara rutin dilaksanakan oleh Badan Pusat
+Statistik. Survei ini mengumpulkan berbagai informasi terkait kondisi rumah
+tangga dan individu, meliputi aspek kependudukan, pendidikan, kesehatan,
+perumahan, serta konsumsi dan pengeluaran rumah tangga.
+
+       Publikasi Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara
+Tahun 2026 merupakan hasil pengolahan data Susenas Maret 2026 yang
+disajikan dalam bentuk tabel dan persentase. Informasi dalam publikasi ini
+memberikan gambaran mengenai berbagai aspek kesejahteraan penduduk
+Kabupaten Musi Rawas Utara berdasarkan karakteristik tertentu. Penyajian data
+tersebut diharapkan dapat membantu pengguna dalam memahami kondisi
+sosial ekonomi masyarakat, melihat perbedaan antar kelompok penduduk,
+serta menjadi bahan referensi dalam perencanaan dan evaluasi pembangunan
+daerah.
+
+       Kami menyadari bahwa indikator yang disajikan dalam publikasi ini belum
+sepenuhnya mencakup seluruh dimensi kesejahteraan masyarakat yang bersifat
+luas dan multidimensional. Namun demikian, kami berharap publikasi ini dapat
+memberikan manfaat bagi pemerintah daerah, akademisi, pelaku usaha,
+maupun masyarakat umum dalam memperoleh informasi mengenai kondisi
+kesejahteraan rakyat di Kabupaten Musi Rawas Utara. Kami menyampaikan
+terima kasih kepada seluruh pihak yang telah berkontribusi dalam penyusunan
+publikasi ini. Kritik dan saran yang membangun sangat diharapkan sebagai
+bahan penyempurnaan publikasi pada masa mendatang.
+
+                                                      Rupit, Desember 2026
+                                               KEPALA BADAN PUSAT STATISTIK
+                                              KABUPATEN MUSI RAWAS UTARA
+
+                                                      EKO TRIS DARMANTO
+
+                                                                                                          v
+vi
+                                                                                   ISSN 2723-8504
+
+                              DAFTAR ISI
+
+     Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara
+                                    Volume 11, 2026
+
+Kata Pengantar ........................................................................................ v
+Daftar Isi ……………………………………………………………………………………………… vii
+Daftar Tabel ………………………………………………………………………………………… ix
+Daftar Gambar ..………………………………………………………………………………… xiii
+Daftar Lampiran ..………………………………………………………………………………… xv
+Daftar Singkatan …………….…………………………..………………………………………. xix
+Bab I Pendahuluan …………………………………………..………………………………. 1
+Bab II Kependudukan ……………………………………………………………………….. 9
+Bab III Pendidikan ………………………………………….………………………………….. 17
+Bab IV Kesehatan dan Fertilitas ………………….……………………………………… 23
+Bab V Perumahan …………………………………………………………………………….. 37
+Bab VI Lain-lain ……………………………………………….…………………………………. 51
+Bab VII Konsumsi dan Pengeluaran …………………………………………….………. 61
+Bab VIII Ulasan Topik Khusus …………………………………………………………….… 69
+
+Daftar Pustaka …………………………………………………………………………………….. 75
+Lampiran …………………………………………..………………………………………………… 79
+
+                                                                                                       vii
+viii
+           DAFTAR TABEL
+
+Tabel                    Halaman
+
+Tabel 2.1  Persentase Penduduk Berumur 10 Tahun ke Atas Menurut Karakteristik dan
+Tabel 2.2  Status Perkawinan Kabupaten Musi Rawas Utara, 2026 ............................13
+Tabel 2.3  Persentase Penduduk Berumur 15–49 Tahun Menurut Karakteristik dan
+Tabel 2.4  Status Perkawinan Kabupaten Musi Rawas Utara, 2026 ............................14
+           Persentase Penduduk Berumur 0–17 Tahun yang Memiliki Akta Kelahiran
+Tabel 3.1  Menurut Karakteristik Kabupaten Musi Rawas Utara, 2026 ......................15
+Tabel 3.2  Persentase Penduduk Berumur 10 Tahun ke Atas yang Berstatus Kawin dan
+Tabel 3.3  Memiliki Buku/Akta Nikah dari KUA/Kantor Catatan Sipil Menurut
+           Karakteristik Kabupaten Musi Rawas Utara, 2026......................................16
+Tabel 4.1  Persentase Penduduk Berumur 15 Tahun ke Atas Menurut Karakteristik dan
+Tabel 4.2  Kemampuan Membaca dan Menulis Kabupaten Musi Rawas Utara, 202620
+           Persentase Penduduk Berumur 7–23 Tahun Menurut Karakteristik dan
+Tabel 4.3  Partisipasi Sekolah Kabupaten Musi Rawas Utara, 2026............................21
+Tabel 4.4  Persentase Penduduk Berumur 15 Tahun ke Atas Menurut Karakteristik dan
+           Tingkat Pendidikan Tertinggi yang Ditamatkan (Ijazah/STTB Tertinggi yang
+Tabel 4.5  Dimiliki) Kabupaten Musi Rawas Utara , 2026............................................22
+           Angka Kesakitan Menurut Karakteristik Kabupaten Musi Rawas Utara, 2026
+Tabel 4.6  .................................................................................................................... 27
+           Persentase Penduduk yang Mempunyai Keluhan Kesehatan dalam Sebulan
+Tabel 4.7  Terakhir dan Pernah Rawat Jalan Menggunakan Jaminan Kesehatan
+           Menurut Karakteristik Kabupaten Musi Rawas Utara, 2026 ......................28
+           Persentase Penduduk Menurut Karakteristik dan Jenis Jaminan Kesehatan
+           yang Dimiliki Kabupaten Musi Rawas Utara, 2026 .....................................29
+           Persentase Penduduk Berumur 15 Tahun ke Atas yang Merokok Tembakau
+           selama Sebulan Terakhir Menurut Karakteristik Kabupaten Musi Rawas
+           Utara, 2026................................................................................................. 30
+           Persentase Penduduk Berumur 0–59 Bulan (Balita) Menurut Karakteristik
+           dan Jenis Imunisasi yang Pernah Didapatkan Kabupaten Musi Rawas Utara,
+           2026............................................................................................................31
+           Persentase Penduduk Berumur 0–23 Bulan (Baduta) yang Pernah Diberi ASI
+           dan Rata-Rata Lama Pemberian ASI (bulan) Menurut Karakteristik
+           Kabupaten Musi Rawas Utara, 2026...........................................................32
+           Persentase Perempuan Pernah Kawin Berumur 15–49 Tahun yang Pernah
+           Melahirkan Anak Lahir Hidup (ALH) dalam Dua Tahun Terakhir di Fasilitas
+           Kesehatan Tempat Kelahiran ALH yang Terakhir Menurut Karakteristik
+           Kabupaten Musi Rawas Utara, 2026...........................................................33
+
+                         ix
+Tabel  Halaman
+
+Tabel 4.8 Persentase Perempuan Pernah Kawin Berumur 15–49 Tahun yang Pernah
+               Melahirkan Anak Lahir Hidup (ALH) dalam Dua Tahun Terakhir dengan
+               Penolong Persalinan ALH yang Terakhir oleh Tenaga Kesehatan Menurut
+               Karakteristik Kabupaten Musi Rawas Utara, 2026......................................34
+
+Tabel 4.9 Persentase Perempuan Berumur 15–49 Tahun yang Pernah Melahirkan
+               Anak Lahir Hidup (ALH) dalam Dua Tahun Terakhir Menurut Karakteristik
+               dan Berat Badan dari ALH yang Terakhir Ketika Dilahirkan Kabupaten Musi
+               Rawas Utara, 2026 ......................................................................................35
+
+Tabel 5.1 Persentase Rumah Tangga Menurut Karakteristik dan Status Kepemilikan
+               Bangunan Tempat Tinggal yang Ditempati Kabupaten Musi Rawas Utara,
+               2026 ............................................................................................................41
+
+Tabel 5.2 Persentase Rumah Tangga Menurut Karakteristik dan Bahan Bangunan
+               Utama Atap Rumah Terluas Kabupaten Musi Rawas Utara, 2026..............42
+
+Tabel 5.3 Persentase Rumah Tangga Menurut Karakteristik dan Bahan Bangunan
+               Utama Dinding Rumah Terluas Kabupaten Musi Rawas Utara, 2026.........43
+
+Tabel 5.4 Persentase Rumah Tangga Menurut Karakteristik dan Bahan Bangunan
+               Utama Lantai Rumah Terluas Kabupaten Musi Rawas Utara, 2026 ...........44
+
+Tabel 5.5 Persentase Rumah Tangga Menurut Karakteristik, Kepemilikan, dan
+               Penggunaan Fasilitas Tempat Buang Air Besar Kabupaten Musi Rawas Utara,
+               2026 ............................................................................................................45
+
+Tabel 5.6 Persentase Rumah Tangga yang Memiliki Fasilitas Tempat Buang Air Besar
+               dengan Penggunaan Sendiri, Bersama Rumah Tangga Tertentu, atau di MCK
+               Komunal Menurut Karakteristik dan Jenis Kloset yang Digunakan Kabupaten
+               Musi Rawas Utara, 2026 .............................................................................46
+
+Tabel 5.7 Persentase Rumah Tangga yang Memiliki Fasilitas Tempat Buang Air Besar
+               dengan Penggunaan Sendiri, Bersama Rumah Tangga Tertentu, atau di MCK
+               Komunal Menurut Karakteristik dan Tempat Pembuangan Akhir Tinja
+               Kabupaten Musi Rawas Utara, 2026...........................................................47
+
+Tabel 5.8 Persentase Rumah Tangga Menurut Karakteristik dan Sumber Air Utama
+               yang Digunakan Rumah Tangga untuk Minum Kabupaten Musi Rawas Utara,
+               2026 ............................................................................................................48
+
+Tabel 5.9 Persentase Rumah Tangga Menurut Karakteristik dan Sumber Air Utama
+               yang Digunakan untuk Mandi/Cuci/dll. Kabupaten Musi Rawas Utara, 2026
+               .................................................................................................................... 49
+
+Tabel 5.10 Persentase Rumah Tangga Menurut Karakteristik dan Sumber Utama
+               Penerangan Kabupaten Musi Rawas Utara, 2026.......................................50
+
+Tabel 6.1 Persentase Penduduk Berumur 5 Tahun ke Atas Menurut Karakteristik dan
+               Penggunaan Teknologi Informasi dalam Tiga Bulan Terakhir Kabupaten Musi
+               Rawas Utara, 2026 ......................................................................................55
+
+x
+Tabel      Halaman
+
+Tabel 6.2  Persentase Rumah Tangga yang Menerima Kredit Dalam Setahun Terakhir
+Tabel 6.3  Menurut Jenis Kredit Kabupaten Musi Rawas Utara, 2026 ........................56
+Tabel 6.4  Persentase Rumah Tangga Menurut Jenis Program Perlindungan Sosial yang
+Tabel 6.5  Diterima Kabupaten Musi Rawas Utara, 2026............................................57
+Tabel 7.1  Persentase Rumah Tangga Menurut Jenis Jaminan Sosial yang Dimiliki atau
+Tabel 7.2  Diterima Kabupaten Musi Rawas Utara, 2026............................................58
+           Persentase Rumah Tangga Menurut Jenis Aset yang Dimiliki Kabupaten
+Tabel 7.3  Musi Rawas Utara, 2026 .............................................................................59
+           Rata-Rata Pengeluaran per Kapita Sebulan Menurut Kelompok Komoditas
+           dan Distribusi Pengeluaran Kabupaten Musi Rawas Utara (rupiah), 2026 65
+           Rata-Rata Konsumsi Kalori per Kapita Sehari Menurut Kelompok Komoditas
+           Makanan dan Distribusi Pengeluaran Kabupaten Musi Rawas Utara (kkal),
+           2026 ............................................................................................................66
+           Rata-Rata Konsumsi Protein per Kapita Sehari Menurut Kelompok
+           Komoditas Makanan dan Distribusi Pengeluaran Kabupaten Musi Rawas
+           Utara (gram), 2026......................................................................................67
+
+           xi
+xii
+        DAFTAR GAMBAR
+
+Gambar                 Halaman
+
+Gambar 8.1 Perkembangan Tingkat Kemiskinan dan Jumlah Penduduk Miskin
+               Kabupaten Musi Rawas Utara, 2016-2026 .................................................72
+
+Gambar 8.2 Perkembangan Garis Kemiskinan Kabupaten Musi Rawas Utara, 2016-2026
+               .................................................................................................................... 73
+
+Gambar 8.3 Perkembangan Indeks Kedalaman Kemiskinan Kabupaten Musi Rawas
+               Utara, 2016-2026 ........................................................................................74
+
+Gambar 8.4 Perkembangan Indeks Keparahan Kemiskinan Kabupaten Musi Rawas
+               Utara, 2016-2026 ........................................................................................74
+
+                       xiii
+xiv
+             DAFTAR LAMPIRAN
+
+Tabel                         Halaman
+
+Lampiran 1   Relative Standard Error (RSE) Persentase Penduduk Berumur 10 Tahun
+Lampiran 2   ke Atas Menurut Karakteristik dan Status Perkawinan Kabupaten Musi
+Lampiran 3   Rawas Utara, 2026.................................................................................81
+Lampiran 4   Relative Standard Error (RSE) Persentase Penduduk Berumur 15–49
+             Tahun Menurut Karakteristik dan Status Perkawinan Kabupaten Musi
+Lampiran 5   Rawas Utara, 2026.................................................................................82
+Lampiran 6   Relative Standard Error (RSE) Persentase Penduduk Berumur 0–17
+Lampiran 7   Tahun yang Memiliki Akta Kelahiran Menurut Karakteristik Kabupaten
+             Musi Rawas Utara, 2026........................................................................83
+Lampiran 8   Relative Standard Error (RSE) Persentase Penduduk Berumur 10 Tahun
+Lampiran 9   ke Atas yang Berstatus Kawin dan Memiliki Buku/Akta Nikah dari
+             KUA/Kantor Catatan Sipil Menurut Karakteristik Kabupaten Musi Rawas
+Lampiran 10  Utara, 2026............................................................................................84
+Lampiran 11  Relative Standard Error (RSE) Persentase Penduduk Berumur 15 Tahun
+             ke Atas Menurut Karakteristik dan Kemampuan Membaca dan Menulis
+             Kabupaten Musi Rawas Utara, 2026 .....................................................85
+             Relative Standard Error (RSE) Persentase Penduduk Berumur 7–23
+             Tahun Menurut Karakteristik dan Partisipasi Sekolah Kabupaten Musi
+             Rawas Utara, 2026.................................................................................86
+             Relative Standard Error (RSE) Persentase Penduduk Berumur 15 Tahun
+             ke Atas Menurut Karakteristik dan Tingkat Pendidikan Tertinggi yang
+             Ditamatkan (Ijazah/STTB Tertinggi yang Dimiliki) Kabupaten Musi Rawas
+             Utara , 2026 ...........................................................................................87
+             Relative Standard Error (RSE) Angka Kesakitan Menurut Karakteristik
+             Kabupaten Musi Rawas Utara, 2026 .....................................................88
+             Relative Standard Error (RSE) Persentase Penduduk yang Mempunyai
+             Keluhan Kesehatan dalam Sebulan Terakhir dan Pernah Rawat Jalan
+             Menggunakan Jaminan Kesehatan Menurut Karakteristik Kabupaten
+             Musi Rawas Utara, 2026........................................................................89
+             Relative Standard Error (RSE) Persentase Penduduk Menurut
+             Karakteristik dan Jenis Jaminan Kesehatan yang Dimiliki Kabupaten Musi
+             Rawas Utara, 2026.................................................................................90
+             Relative Standard Error (RSE) Persentase Penduduk Berumur 15 Tahun
+             ke Atas yang Merokok Tembakau selama Sebulan Terakhir Menurut
+             Karakteristik Kabupaten Musi Rawas Utara, 2026 ................................91
+
+                              xv
+Tabel        Halaman
+
+Lampiran 12  Relative Standard Error (RSE) Persentase Penduduk Berumur 0–59 Bulan
+Lampiran 13  (Balita) Menurut Karakteristik dan Jenis Imunisasi yang Pernah
+Lampiran 14  Didapatkan Kabupaten Musi Rawas Utara, 2026 ..................................92
+             Relative Standard Error (RSE) Persentase Penduduk Berumur 0–23 Bulan
+Lampiran 15  (Baduta) yang Pernah Diberi ASI dan Rata-Rata Lama Pemberian ASI
+             Menurut Karakteristik Kabupaten Musi Rawas Utara,
+Lampiran 16  2026.......................................................................................................93
+Lampiran 17  Relative Standard Error (RSE) Persentase Perempuan Pernah Kawin
+Lampiran 18  Berumur 15–49 Tahun yang Pernah Melahirkan Anak Lahir Hidup (ALH)
+Lampiran 19  dalam Dua Tahun Terakhir di Fasilitas Kesehatan Tempat Kelahiran ALH
+Lampiran 20  yang Terakhir Menurut Karakteristik Kabupaten Musi Rawas Utara,
+Lampiran 21  2026.......................................................................................................94
+             Relative Standard Error (RSE) Persentase Perempuan Pernah Kawin
+             Berumur 15–49 Tahun yang Pernah Melahirkan Anak Lahir Hidup (ALH)
+             dalam Dua Tahun Terakhir dengan Penolong Persalinan ALH yang
+             Terakhir oleh Tenaga Kesehatan Menurut Karakteristik Kabupaten Musi
+             Rawas Utara, 2026 ................................................................................95
+             Relative Standard Error (RSE) Persentase Perempuan Berumur 15–49
+             Tahun yang Pernah Melahirkan Anak Lahir Hidup (ALH) dalam Dua Tahun
+             Terakhir Menurut Karakteristik dan Berat Badan dari ALH yang Terakhir
+             Ketika Dilahirkan Kabupaten Musi Rawas Utara, 2026 .........................96
+             Relative Standard Error (RSE) Persentase Rumah Tangga Menurut
+             Karakteristik dan Status Kepemilikan Bangunan Tempat Tinggal yang
+             Ditempati Kabupaten Musi Rawas Utara, 2026..................................... 97
+             Relative Standard Error (RSE) Relative Standard Error (RSE) Persentase
+             Rumah Tangga Menurut Karakteristik dan Bahan Bangunan Utama Atap
+             Rumah Terluas Kabupaten Musi Rawas Utara, 2026.............................98
+             Relative Standard Error (RSE) Persentase Rumah Tangga Menurut
+             Karakteristik dan Bahan Bangunan Utama Dinding Rumah Terluas
+             Kabupaten Musi Rawas Utara, 2026 .....................................................99
+             Relative Standard Error (RSE) Persentase Rumah Tangga Menurut
+             Karakteristik dan Bahan Bangunan Utama Lantai Rumah Terluas
+             Kabupaten Musi Rawas Utara, 2026 ...................................................100
+             Relative Standard Error (RSE) Persentase Rumah Tangga Menurut
+             Karakteristik, Kepemilikan, dan Penggunaan Fasilitas Tempat Buang Air
+             Besar Kabupaten Musi Rawas Utara, 2026...........................................101
+
+xvi
+Tabel        Halaman
+
+Lampiran 22  Relative Standard Error (RSE) Persentase Rumah Tangga yang Memiliki
+             Fasilitas Tempat Buang Air Besar dengan Penggunaan Sendiri, Bersama
+Lampiran 23  Rumah Tangga Tertentu, atau di MCK Komunal Menurut Karakteristik
+             dan Jenis Kloset yang Digunakan Kabupaten Musi Rawas Utara, 2026 102
+Lampiran 24  Relative Standard Error (RSE) Persentase Rumah Tangga yang Memiliki
+Lampiran 25  Fasilitas Tempat Buang Air Besar dengan Penggunaan Sendiri, Bersama
+Lampiran 26  Rumah Tangga Tertentu, atau di MCK Komunal Menurut Karakteristik
+Lampiran 27  dan Tempat Pembuangan Akhir Tinja Kabupaten Musi Rawas Utara,
+Lampiran 28  2026 .....................................................................................................103
+Lampiran 29  Relative Standard Error (RSE) Persentase Rumah Tangga Menurut
+Lampiran 30  Karakteristik dan Sumber Air Utama yang Digunakan untuk Minum
+Lampiran 31  Kabupaten Musi Rawas Utara, 2026 ...................................................104
+Lampiran 32  Relative Standard Error (RSE) Persentase Rumah Tangga Menurut
+Lampiran 33  Karakteristik dan Sumber Air Utama yang Digunakan untuk
+             Mandi/Cuci/dll. Kabupaten Musi Rawas Utara, 2026 .........................105
+             Relative Standard Error (RSE) Persentase Rumah Tangga Menurut
+             Karakteristik dan Sumber Utama Penerangan Kabupaten Musi Rawas
+             Utara, 2026..........................................................................................106
+             Relative Standard Error (RSE) Persentase Penduduk Berumur 5 Tahun ke
+             Atas Menurut Karakteristik dan Penggunaan Teknologi Informasi dalam
+             Tiga Bulan Terakhir Kabupaten Musi Rawas Utara, 2026....................107
+             Relative Standard Error (RSE) Persentase Rumah Tangga yang Menerima
+             Kredit Dalam Setahun Terakhir Menurut Jenis Kredit Kabupaten Musi
+             Rawas Utara, 2026...............................................................................108
+             Relative Standard Error (RSE) Persentase Rumah Tangga Menurut Jenis
+             Program Perlindungan Sosial yang Diterima Kabupaten Musi Rawas
+             Utara, 2026..........................................................................................109
+             Relative Standard Error (RSE) Persentase Rumah Tangga Menurut Jenis
+             Jaminan Sosial yang Dimiliki atau Diterima Kabupaten Musi Rawas Utara,
+             2026 .....................................................................................................110
+             Relative Standard Error (RSE) Persentase Rumah Tangga Menurut Jenis
+             Aset yang Dimiliki Kabupaten Musi Rawas Utara, 2026 ......................111
+             Relative Standard Error (RSE) Rata-Rata Pengeluaran per Kapita Sebulan
+             Menurut Kelompok Komoditas dan Distribusi Pengeluaran Kabupaten
+             Musi Rawas Utara (rupiah), 2026 ........................................................112
+             Relative Standard Error (RSE) Rata-Rata Konsumsi Kalori per Kapita
+             Sehari Menurut Kelompok Komoditas Makanan dan Distribusi
+             Pengeluaran Kabupaten Musi Rawas Utara (kkal), 2026.....................113
+
+             xvii
+Tabel        Halaman
+
+Lampiran 34  Relative Standard Error (RSE) Rata-Rata Konsumsi Protein per Kapita
+             Sehari Menurut Kelompok Komoditas Makanan dan Distribusi
+Lampiran 35  Pengeluaran Kabupaten Musi Rawas Utara (gram), 2026...................114
+Lampiran 36  Kuesioner VSEN26.K ............................................................................115
+             Kuesioner VSEN26.KP ..........................................................................141
+
+xviii
+                     DAFTAR SINGKATAN
+
+BAB II KEPENDUDUKAN
+
+KRT               : Kepala Rumah Tangga
+
+KUA               : Kantor Urusan Agama
+
+BAB III PENDIDIKAN
+
+SD                : Sekolah Dasar
+
+SMP               : Sekolah Menengah Pertama
+
+SMA               : Sekolah Menengah Atas
+
+SMK               : Sekolah Menengah Kejuruan
+
+BAB IV KESEHATAN DAN FERTILITAS
+
+ASI               : Air Susu Ibu
+
+Baduta            : Bawah Dua Tahun
+
+Balita            : Bawah Lima Tahun
+
+BCG               : Bacillus Calmette-Guérin
+DPT               : Difteri, Pertusis, Tetanus
+KIA               : Kesehatan Ibu dan Anak
+KMS               : Kartu Menuju Sehat
+MR                : Measles dan Rubella
+MMR               : Measles, Mumps, dan Rubella
+
+BAB V PERUMAHAN
+
+IPAL              : Instalasi Pengolahan Air Limbah
+
+MCK               : Mandi, Cuci, Kakus
+
+BAB VI LAIN-LAIN
+
+HP                :  Handphone
+                     Kartu Keluarga Sejahtera
+KKS               :  Personal Computer
+                     Program Keluarga Harapan
+PC                :  Bantuan Pangan Non Tunai
+
+PKH               :
+
+BPNT              :
+
+                                                     xix
+xx
+INFOGRAFIS
+2  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                                         BAB I
+                                  PENDAHULUAN
+
+1.1 PENDAHULUAN
+1.1.1 Umum
+
+        Pada era Sustainable Development Goals (SDGs), Data Revolution, Big Data, dan
+Astacita seperti sekarang ini, informasi capaian pembangunan merupakan sumber data
+utama bagi para pemangku kebijakan dalam merencanakan pembangunan nasional.
+Survei Sosial Ekonomi Nasional (Susenas) yang diselenggarakan oleh BPS merupakan
+salah satu sumber informasi untuk mendapatkan gambaran mengenai kondisi sosial
+ekonomi masyarakat.
+
+        Otonomi daerah melahirkan kebutuhan data hingga level kabupaten/kota. Data
+tersebut diperlukan oleh pemerintah kabupaten/kota sebagai dasar perumusan
+kebijakan maupun evaluasi program pembangunan. Dalam rangka menjawab
+kebutuhan tersebut, mulai tahun 2015, pengumpulan data Susenas dilaksanakan pada
+Bulan Maret dengan sampel sebanyak 300.000 rumah tangga sehingga memungkinkan
+estimasi hingga level kabupaten/kota. Kemudian pada tahun 2020 sampai dengan tahun
+2026, jumlah sampel Susenas Maret ditingkatkan menjadi 356.000 rumah tangga.
+
+        Susenas menghasilkan beragam statistik lintas sektor, diantaranya meliputi:
+partisipasi sekolah, kemampuan membaca dan menulis untuk bidang pendidikan;
+gangguan kesehatan, pemanfaatan jaminan kesehatan, perilaku merokok, pemberian
+imunisasi pada balita dan ASI pada baduta, tempat melahirkan dan penolong persalinan
+untuk bidang kesehatan dan fertilitas; kondisi tempat tinggal, sumber air untuk mandi
+dan mencuci untuk bidang perumahan; kepemilikan HP, akses internet dalam
+pemanfaatan teknologi informasi, serta bantuan/program pemerintah untuk
+kesejahteraan masyarakat.
+
+        Susenas juga mengumpulkan data konsumsi dan pengeluaran rumah tangga, baik
+untuk komoditas makanan maupun bukan makanan. Dari data tersebut diperoleh rata-
+rata konsumsi dan pengeluaran rumah tangga serta rata-rata konsumsi kalori dan
+protein per kapita. Data konsumsi dan pengeluaran yang dirinci menurut kelompok
+komoditas dapat memberikan gambaran mengenai pola konsumsi penduduk di suatu
+wilayah.
+
+        Publikasi ini menyajikan data-data dasar yang telah dianggap cukup mewakili
+berbagai bidang dan kondisi sosial ekonomi masyarakat dengan mempertimbangkan
+syarat kelayakan estimasi di tingkat kabupaten/kota yang ditunjukkan oleh nilai Relative
+Standard Error (RSE) yang dicantumkan dalam lampiran.
+
+Pendahuluan  3
+1.1.2 Sistematika Penyajian
+        Publikasi ini terbagi atas delapan bab yang terdiri atas penjelasan dan tabel.
+
+Bagian pendahuluan memberikan penjelasan mengenai gambaran umum, metode
+survei, pengolahan data, dan penyajian data. Tabel pada publikasi ini terdiri atas tabel-
+tabel data kependudukan, pendidikan, kesehatan dan fertilitas, perumahan, dan lain-
+lain meliputi teknologi informasi dan komunikasi, perlindungan sosial, jaminan sosial,
+serta tabel konsumsi dan pengeluaran. Bab terakhir berisi ulasan topik mengenai
+perkembangan terkini masyarakat di masing-masing kabupaten/kota.
+
+        Data dalam publikasi ini disajikan menurut karakteristik individu maupun rumah
+tangga. Secara umum disagregasi data dalam publikasi ini meliputi:
+a. Jenis kelamin
+b. Pengelompokan penduduk berdasarkan kriteria Bank Dunia. Bank Dunia
+
+    mengelompokkan penduduk ke dalam tiga kelompok sesuai dengan besarnya
+    pendapatan yang dapat didekati dengan besarnya pengeluaran, yaitu: 40 persen
+    penduduk dengan pengeluaran terbawah, 40 persen penduduk dengan pengeluaran
+    menengah, dan 20 persen penduduk dengan pengeluaran teratas.
+c. Pendidikan tertinggi Kepala Rumah Tangga (KRT) adalah pendidikan tertingi yang
+    ditamatkan oleh KRT yang dinyatakan dengan ijazah tertinggi yang dimiliki oleh KRT.
+    Pendidikan tertinggi KRT dikelompokkan menjadi:
+
+       i. SD ke bawah, yang terdiri atas:
+           - Tidak Pernah Sekolah/Tidak Tamat SD adalah KRT yang tidak pernah
+                 sekolah dan KRT yang pernah sekolah hingga jenjang Sekolah Dasar
+                 (SD)/sederajat, tetapi tidak tamat/lulus.
+           - SD dan sederajat adalah KRT yang pernah bersekolah dan memiliki ijazah
+                 tertinggi SD/MI/SDLB/Paket A/SPM/PDF Ula.
+
+      ii. SMP ke atas, yang terdiri atas:
+           - SMP dan sederajat adalah KRT yang pernah bersekolah dan memiliki
+                 ijazah tertinggi SMP/MTs/SMPLB/Paket B/SPM/PDF Wustha.
+           - SMA ke atas adalah KRT yang pernah bersekolah dan memiliki ijazah
+                 tertinggi SMA/SMK/MA/MAK/SMLB/Paket C/SPM/PDF Ulya, Diploma, S1,
+                 Profesi, S2 atau S3.
+
+d. Pendidikan tertinggi adalah pendidikan tertinggi yang ditamatkan oleh penduduk.
+    Pendidikan tertinggi penduduk dikelompokkan menjadi:
+       i. SD ke bawah, yang terdiri atas:
+           - Tidak Pernah Sekolah/Tidak Tamat SD adalah KRT yang tidak pernah
+                 sekolah dan KRT yang pernah sekolah hingga jenjang Sekolah Dasar
+                 (SD)/sederajat, tetapi tidak tamat/lulus.
+           - SD dan sederajat adalah KRT yang pernah bersekolah dan memiliki ijazah
+                 tertinggi SD/MI/SDLB/Paket A/SPM/PDF Ula.
+
+4  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+      ii. SMP ke atas, yang terdiri atas:
+           - SMP dan sederajat adalah KRT yang pernah bersekolah dan memiliki
+                 ijazah tertinggi SMP/MTs/SMPLB/Paket B/SPM/PDF Wustha.
+           - SMA ke atas adalah KRT yang pernah bersekolah dan memiliki ijazah
+                 tertinggi SMA/SMK/MA/MAK/SMLB/Paket C/SPM/PDF Ulya, Diploma, S1,
+                 Profesi, S2 atau S3.
+
+        Pada lampiran publikasi, disajikan pula angka estimasi sampling error yang
+menunjukkan besarnya kesalahan yang ditimbulkan dari penggunaan teknik sampling
+dalam suatu survei. Besarnya sampling error tersebut berhubungan dengan presisi dari
+suatu angka estimasi. Pada umumnya, hal tersebut dinyatakan dengan besarnya
+Relative Standard Error (RSE) yang merupakan rasio dari nilai standard error dengan nilai
+estimasi suatu variabel. Nilai estimasi sebagai berikut:
+ a. RSE ≤25%, nilai estimasi dianggap akurat,
+ b. RSE >25% tetapi ≤50%, perlu hati-hati jika nilai estimasi ingin digunakan,
+ c. RSE > 50%, maka nilai estimasi tersebut dianggap sangat tidak akurat. Salah satu
+
+      cara untuk mengatasinya, yaitu menggabungkan dengan estimasi yang lain untuk
+      mendapatkan nilai estimasi yang RSE-nya lebih kecil.
+
+1.2 METODE SURVEI
+1.2.1 Ruang Lingkup
+
+       Susenas Maret 2026 dilaksanakan di seluruh provinsi di Indonesia (38 provinsi)
+
+dengan ukuran sampel sebesar 356.000 rumah tangga yang tersebar di 514
+kabupaten/kota. Sampel mencakup rumah tangga yang berada di setiap Enumeration
+Area Satuan Lingkungan Setempat (EA SLS) terpilih. Seluruh rumah tangga sampel
+tersebut dicacah dengan kuesioner VSEN26.K dan VSEN26.KP.
+
+        Sampel Susenas Maret 2026 untuk Kabupaten Musi Rawas Utara sebesar 600
+rumah tangga yang tersebar di 7 kecamatan. Data yang dihasilkan cukup representatif
+untuk menghasilkan estimasi sampai dengan tingkat kabupaten/kota, namun tidak
+dapat dibedakan menurut klasifikasi desa (perkotaan/perdesaan).
+
+1.2.2 Kerangka Sampel
+
+         Susenas Maret 2026 menggunakan Satuan Lingkungan Setempat (SLS) sebagai
+wilayah pendataan (enumeration area/EA). Pembentukan kerangka sampel Susenas
+dilakukan melalui dua tahap.
+
+     1. Kerangka sampel tahap pertama adalah:
+
+Pendahuluan  5
+           a. Daftar EA SLS yang dilengkapi dengan informasi klasifikasi
+                perkotaan/perdesaan, strata kesejahteraan dan strata lapangan usaha,
+                yang disebut sebagai Master Frame.
+
+           b. Daftar 50 persen EA SLS yang terpilih sebagai Master Sampling Frame yang
+                dilengkapi dengan informasi klasifikasi perkotaan/perdesaan, strata
+                kesejahteraan, dan strata lapangan usaha, yang disebut sebagai Master
+                Sampling Frame.
+
+     2. Kerangka sampel tahap kedua adalah daftar populasi rumah tangga yang
+           dilengkapi informasi tingkat pendidikan kepala rumah tangga hasil
+           pemutakhiran Susenas Maret 2026 di setiap EA SLS terpilih.
+
+1.2.3 Desain Sampel untuk Estimasi Kabupaten/Kota
+
+           Desain yang diterapkan pada Susenas Maret adalah stratified two stage
+sampling dengan tahapan pemilihan sampel sebagai berikut:
+
+Tahap 1:
+
+a) Memilih sebanyak ngh atau 50% EA SLS secara PPS systematic sampling dengan size
+     jumlah KK. Pemilihan dilakukan secara independen antara strata perkotaan dan
+     strata perdesaan (explicit) di setiap kabupaten/ kota, dengan mengurutkan SLS
+     menurut strata kesejahteraan dan lapangan usaha (implicit). Output dari tahapan
+     ini adalah daftar EA SLS yang disebut sebagai Master Sampling Frame.
+
+b) Memilih sejumlah n'gh EA SLS sesuai alokasi secara systematic sampling dengan
+     terlebih dahulu mengurutkan strata kesejahteraan (implicit), pada setiap strata
+     perkotaan dan strata perdesaan (explicit) di setiap kabupaten/kota untuk kegiatan
+     Susenas Maret 2026.
+
+Tahap 2:
+
+           Memilih 10 rumah tangga pada EA SLS Susenas Maret 2026 secara systematic
+sampling dengan tingkat pendidikan kepala rumah tangga sebagai variabel stratifikasi
+implisit.
+
+1.2.4 Metode Pengumpulan Data
+
+        Pendataan Susenas Maret 2026 menggunakan dua kuesioner, yaitu kuesioner
+Kor (VSEN26.K) dan kuesioner Konsumsi dan Pengeluaran (VSEN26.KP), contoh
+kuesioner disajikan pada lampiran.
+
+        Pendataan dari rumah tangga terpilih dilakukan dengan cara wawancara
+langsung antara petugas pendata dengan responden. Keterangan rumah tangga
+dikumpulkan melalui wawancara dengan kepala rumah tangga, suami/istri kepala
+rumah tangga, atau ART yang mengetahui karakteristik yang ditanyakan.
+
+6  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+1.3 PENGOLAHAN DATA
+
+        Pengolahan data dilakukan melalui beberapa tahapan. Proses pengolahan
+dimulai di BPS Kabupaten/Kota dengan kegiatan receiving/batching, editing/coding,
+entri data, dan validasi sederhana. Setelah terbentuk raw data, di BPS provinsi dilakukan
+kegiatan validasi sederhana. Tahap terakhir dari proses pengolahan dilakukan di BPS
+Pusat, yaitu proses validasi lengkap untuk menghasilkan data yang bersih (clean data).
+
+        Setelah diperoleh data yang clean, selanjutnya dilakukan tabulasi data sesuai
+dengan dummy tabel yang telah disusun. Adapun pembulatan untuk masing-masing
+data dilakukan dengan menggunakan pembulatan matematis 2 (dua) digit angka di
+belakang koma.
+
+1.4 PENYAJIAN DATA
+
+     Pada beberapa tabel, nilai estimasi tidak ditampilkan dan diberi tanda/simbol
+tertentu. Berikut masing-masing penjelasannya.
+a. Tanda en dash (–), menunjukkan bahwa data bernilai nol (0) mutlak yang berati
+
+     tidak ada data/nilai estimasi pada sel tabel tersebut.
+b. Tanda ~0, menunjukkan bahwa data pada suatu sel nilainya sangat kecil atau
+
+     mendekati nol (0).
+c. NA (Not Applicable), menunjukkan bahwa data tidak dapat ditampilkan karena nilai
+
+     Relative Standard Error (RSE) lebih dari 50 persen.
+
+     Interpretasi terhadap nilai 100 persen memerlukan kehati-hatian mengingat data
+yang digunakan bersumber dari Susenas yang merupakan survei sampel. Nilai 100
+persen dapat muncul karena karakteristik sampel yang terpilih secara acak kebetulan
+menunjukkan hasil yang seragam, khususnya pada indikator-indikator yang memiliki
+keterbatasan jumlah sampel.
+
+Pendahuluan  7
+8  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+   INFOGRAFIS
+KEPENDUDUKAN
+10  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                                         BAB II
+                                  KEPENDUDUKAN
+
+ PENJELASAN TEKNIS
+
+ 1. Penduduk Indonesia adalah semua orang yang berdomisili di wilayah teritorial
+     Indonesia, mencakup Warga Negara Indonesia (WNI) dan Warga Negara Asing
+     (WNA) yang telah menetap selama satu tahun atau lebih atau berencana menetap
+     di wilayah Indonesia selama minimal satu tahun.
+
+ 2. Belum kawin adalah status seseorang yang pada saat pendataan belum terikat
+     dalam perkawinan.
+
+ 3. Kawin adalah status seseorang yang pada saat pendataan, hidup sebagai suami atau
+     istri berdasarkan peraturan hukum/adat/agama, baik yang mendapatkan surat nikah
+     maupun tidak, namun sah menurut hukum/adat/agama.
+     Termasuk kategori kawin adalah mereka yang mempunyai pasangan perempuan
+     (bagi laki-laki) atau pasangan laki-laki (bagi perempuan) tanpa terikat dalam
+     perkawinan yang sah secara hukum (adat, agama, negara), namun memiliki
+     hubungan layaknya suami istri, baik tinggal bersama dalam satu rumah maupun
+     tidak.
+
+4. Cerai adalah status seseorang yang berpisah sebagai suami istri karena bercerai, baik
+     yang masih hidup maupun yang ditinggal mati oleh suami/istrinya dan belum kawin
+     lagi. Dalam hal ini, termasuk mereka yang mengaku cerai walaupun belum resmi
+     secara hukum. Sebaliknya, tidak termasuk mereka yang hanya hidup terpisah, tetapi
+     masih berstatus kawin, misalnya suami/istri ditinggalkan oleh istri/suami ke tempat
+     lain karena sekolah, bekerja, mencari pekerjaan, atau untuk keperluan lain. Wanita
+     yang mengaku belum pernah kawin tetapi pernah hamil, dianggap cerai hidup.
+
+ 5. Akta kelahiran adalah surat tanda bukti kelahiran yang dikeluarkan oleh kantor
+     catatan sipil.
+
+ 6. Akta nikah adalah akta autentik pencatatan nikah. Sedangkan buku nikah adalah
+     dokumen petikan akta nikah dalam bentuk buku (Peraturan Menteri Agama Republik
+     Indonesia Nomor 20 Tahun 2019).
+     Pencatatan perkawinan dari mereka yang melangsungkan perkawinannya menurut
+     agama Islam dilakukan oleh pegawai pencatat nikah yang diangkat oleh Menteri
+     Agama. Sementara itu, pencatatan perkawinan dari mereka yang melangsungkan
+     perkawinannya menurut agama dan kepercayaannya selain agama Islam, dilakukan
+     oleh Pegawai Pencatat perkawinan pada kantor catatan sipil (Peraturan Pemerintah
+     Republik Indonesia Nomor 9 Tahun 1975).
+
+Kependudukan  11
+12  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel                   Persentase Penduduk Berumur 10 Tahun ke Atas Menurut
+              2.1 Karakteristik dan Status Perkawinan Kabupaten Musi Rawas
+
+                        Utara, 2026
+
+                                   Status Perkawinan
+
+Karakteristik                                                                  Jumlah
+
+                      Belum Kawin  Kawin              Cerai1
+
+               (1)    (2)          (3)                (4)                      (5)
+Jenis Kelamin
+
+Laki-Laki             37,29        60,99              1,73                     100,00
+Perempuan             27,70        62,61
+                                                      9,69                     100,00
+
+                      Distribusi Pengeluaran
+
+40 Persen Terbawah    32,92        60,00              7,09                     100,00
+40 Persen Menengah    34,28        61,33
+20 Persen Teratas     28,53        66,19              4,49                     100,00
+
+Pendidikan Tertinggi                                  5,28                     100,00
+
+SD ke Bawah           30.55        60,81              8,65                     100,00
+SMP ke Atas           34,58        62,80
+                                                      2,63                     100,00
+
+Musi Rawas Utara      32,54        61,79              5,67                     100,00
+
+Catatan: 1Cerai termasuk cerai hidup dan cerai mati
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Kependudukan                                                                   13
+    Tabel              Persentase Penduduk Berumur 15–49 Tahun Menurut
+             2.2 Karakteristik dan Status Perkawinan Kabupaten Musi Rawas
+
+                       Utara, 2026
+
+                             Status Perkawinan
+
+       Karakteristik  Belum Kawin  Kawin        Cerai1  Jumlah
+                             (2)     (3)          (4)      (5)
+               (1)
+Jenis Kelamin         38,72        60,23        1,05    100,00
+Laki-Laki                                               100,00
+Perempuan             25,90        69,55        4,55
+                                                        100,00
+40 Persen Terbawah    Distribusi Pengeluaran            100,00
+40 Persen Menengah                                      100,00
+20 Persen Teratas     30,99        64,49        4,52
+Pendidikan Tertinggi
+                      32,84        65,62        1,54
+
+                      33,73        64,25        NA
+
+SD ke Bawah           19,15        75,93        4,92    100,00
+SMP ke Atas           38,44        59.75
+                                                1,81    100,00
+
+Musi Rawas Utara      32,30        64,90        2,80    100,00
+
+Catatan: 1Cerai termasuk cerai hidup dan cerai mati
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+14                Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel                   Persentase Penduduk Berumur 0–17 Tahun yang Memiliki
+
+              2.3 Akta Kelahiran Menurut Karakteristik Kabupaten Musi Rawas
+
+                        Utara, 2026
+
+      Karakteristik       Memiliki Akta Kelahiran
+             (1)                         (2)
+
+Jenis Kelamin                        96,54
+Laki-Laki                            97,30
+Perempuan
+Distribusi Pengeluaran               94,21
+40 Persen Terbawah                   99,30
+40 Persen Menengah                   98,17
+20 Persen Teratas
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               95,63
+SMP ke Atas               97,77
+
+Musi Rawas Utara          96,91
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Kependudukan                                                                   15
+                      Persentase Penduduk Berumur 10 Tahun ke Atas yang
+
+    Tabel  2.4        Berstatus Kawin dan Memiliki Buku/Akta Nikah dari
+                      KUA/Kantor Catatan Sipil Menurut Karakteristik Kabupaten
+
+                      Musi Rawas Utara, 2026
+
+          Karakteristik     Memiliki Buku/Akta Nikah
+                 (1)                        (2)
+
+    Jenis Kelamin                        91,08
+    Laki-Laki                            90,96
+    Perempuan
+    Distribusi Pengeluaran               86,82
+    40 Persen Terbawah                   93,09
+    40 Persen Menengah                   94,60
+    20 Persen Teratas
+    Pendidikan Tertinggi
+
+    SD ke Bawah                               85,62
+    SMP ke Atas                               96,36
+
+    Musi Rawas Utara                          91,02
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+16               Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+INFOGRAFIS
+PENDIDIKAN
+18  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                                        BAB III
+                                    PENDIDIKAN
+
+PENJELASAN TEKNIS
+
+    1. Dapat membaca dan menulis yang dimaksud adalah jika seseorang dapat
+
+          membaca dan menulis kalimat sederhana dalam huruf Latin/alfabet (a-z), atau
+          huruf Arab/hijaiyah dan huruf lainnya (contoh: Jawa, Kanji, Cina, dll.).
+
+    2. Tidak/belum pernah bersekolah adalah tidak pernah atau belum pernah
+
+          terdaftar dan tidak pernah/belum pernah aktif mengikuti pendidikan baik di
+          suatu jenjang pendidikan formal maupun nonformal (Paket A/B/C), termasuk
+          juga yang tamat/belum tamat Taman Kanak-kanak (TK), tetapi tidak
+          melanjutkan ke Sekolah Dasar (SD).
+
+    3. Masih bersekolah adalah terdaftar dan aktif mengikuti pendidikan baik di
+
+          suatu jenjang pendidikan formal maupun nonformal (Paket A/B/C). Termasuk
+          bagi mahasiswa yang sedang cuti dianggap masih bersekolah.
+
+    4. Tidak bersekolah lagi adalah pernah terdaftar dan aktif mengikuti pendidikan
+
+          baik di jenjang pendidikan formal maupun nonformal (Paket A/B/C), tetapi
+          pada saat pencacahan tidak terdaftar atau tidak aktif mengikuti pendidikan
+          lagi.
+
+    5. Pendidikan tertinggi yang ditamatkan adalah jenjang pendidikan tertinggi
+
+          yang ditamatkan oleh seseorang, ditandai dengan sertifikat/ijazah.
+
+    6. Tamat sekolah adalah menyelesaikan pelajaran yang ditandai dengan lulus
+
+          ujian akhir pada kelas atau tingkat terakhir suatu jenjang pendidikan formal dan
+          nonformal (Paket A/B/C) di sekolah negeri maupun swasta dengan
+          mendapatkan tanda tamat belajar/ijazah. Seseorang yang belum mengikuti
+          pelajaran pada kelas tertinggi tetapi sudah mengikuti ujian akhir dan lulus,
+          dianggap tamat sekolah.
+
+Pendidikan  19
+Tabel                Persentase Penduduk Berumur 15 Tahun ke Atas Menurut
+           3.1 Karakteristik dan Kemampuan Membaca dan Menulis Kabupaten
+
+                     Musi Rawas Utara, 2026
+
+       Karakteristik    Huruf Latin  Huruf Lainnya
+
+                 (1)      (2)          (3)
+Jenis Kelamin           98,58        35,01
+Laki-Laki
+
+Perempuan               97,90        32,92
+
+Distribusi Pengeluaran  98,05        25,61
+40 Persen Terbawah      99,51        36,12
+40 Persen Menengah
+
+20 Persen Teratas       96,24        44,99
+
+Musi Rawas Utara        98,24        33,97
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+20                    Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel       3.2     Persentase Penduduk Berumur 7–23 Tahun Menurut Karakteristik
+                    dan Partisipasi Sekolah Kabupaten Musi Rawas Utara, 2026
+
+     Karakteristik      Tidak/Belum     Masih       Tidak                      Jumlah
+            (1)            Pernah    Bersekolah  Bersekolah                       (5)
+
+Jenis Kelamin            Bersekolah                  Lagi
+
+                        (2)          (3)               (4)
+
+Laki-Laki               NA           74,94       23,27                         100,00
+
+Perempuan               NA           70,36       29,56                         100,00
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah      NA           76,61       22,05                         100,00
+
+40 Persen Menengah      NA           70,62       28.41                         100,00
+
+20 Persen Teratas       ̶            68,27       31,73                         100,00
+
+Musi Rawas Utara        NA           72,71       26,34                         100,00
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Pendidikan                                                                     21
+                        Persentase Penduduk Berumur 15 Tahun ke Atas Menurut
+
+    Tabel  3.3          Karakteristik dan Jenjang Pendidikan Tertinggi yang
+                        Ditamatkan (Ijazah/STTB Tertinggi yang Dimiliki) Kabupaten
+
+                        Musi Rawas Utara, 2026
+
+     Karakteristik          Tidak  SD           SMP SMA/SMK Pendidikan              Jumlah
+             (1)        Mempunyai
+                                   Sederajat Sederajat Sederajat Tinggi
+Jenis Kelamin              Ijazah
+
+                        (2)        (3)          (4)  (5)  (6)                       (7)
+
+Laki-Laki               19,06      22,86 22,72 28,44      6,92 100,00
+
+Perempuan               21,87      24,75 21,88 23,84      7,65 100,00
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah      21,64      29,46 22,72 23,32      2,86 100,00
+
+40 Persen Menengah 20,71           20,80 21,86 26,47      10,16 100,00
+
+20 Persen Teratas       17,91      19,19 22,35 30,60      9,95 100,00
+
+Musi Rawas Utara        20,47      23,80 22,30 26,14      7,29                      100,00
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+22                  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+       INFOGRAFIS
+KESEHATAN DAN FERTILITAS
+24  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                                        BAB IV
+                          KESEHATAN DAN FERTILITAS
+
+PENJELASAN TEKNIS
+
+1. Keluhan kesehatan adalah keadaan seseorang yang mengalami gangguan
+
+      kesehatan atau kejiwaan, baik karena gangguan/penyakit yang sering dialami
+      penduduk seperti panas, pilek, diare, pusing, sakit kepala, maupun karena penyakit
+      akut, penyakit kronis (meskipun selama sebulan terakhir tidak mempunyai
+      keluhan), kecelakaan, kriminalitas, atau keluhan lainnya.
+
+2. Sakit adalah mempunyai keluhan kesehatan yang menyebabkan terganggunya
+
+      pekerjaan, sekolah, atau kegiatan sehari-hari.
+ 3. Angka kesakitan didefinisikan sebagai perbandingan antara jumlah penduduk
+
+      yang mengalami satu atau lebih jenis keluhan dalam satu bulan terakhir yang
+      mengakibatkan terganggunya kegiatan sehari-hari terhadap jumlah seluruh
+      penduduk. Indikator ini juga dikenal sebagai angka morbiditas dan dinyatakan
+      dalam persen.
+
+4. Rawat jalan adalah upaya anggota rumah tangga yang mempunyai keluhan
+
+      kesehatan untuk memeriksakan diri dan mendapatkan pengobatan dengan
+      mendatangi tempat-tempat pelayanan kesehatan modern atau tradisional tanpa
+      menginap, termasuk mendatangkan petugas kesehatan ke rumah anggota rumah
+      tangga.
+ 5. Jaminan kesehatan adalah jaminan berupa perlindungan kesehatan agar peserta
+      memperoleh manfaat pemeliharaan kesehatan dan perlindungan dalam
+      memenuhi keutuhan dasar kesehatan yang diberikan kepada setiap orang yang
+      telah membayar iuran jaminan kesehatan atau iuran jaminan kesehatannya
+      dibayar oleh pemerintah pusat atau pemerintah daerah.
+ 6. Merokok tembakau adalah aktivitas menggunakan produk tembakau dengan cara
+      dibakar, dipanaskan, diuapkan, dihisap, atau dihirup, baik menggunakan rokok
+      maupun pipa.
+ 7. Imunisasi adalah suatu upaya untuk menimbulkan/meningkatkan kekebalan
+      seseorang secara aktif terhadap suatu penyakit sehingga bila suatu saat terpajan
+      dengan penyakit tersebut tidak akan sakit atau hanya mengalami sakit ringan.
+ 8. Anak lahir hidup adalah anak yang pada waktu dilahirkan menunjukkan tanda-
+      tanda kehidupan, walaupun hanya beberapa saat saja, seperti jantung berdenyut,
+      bernafas, dan menangis.
+ 9. Penolong persalinan adalah penolong terakhir dalam proses persalinan sampai
+      dengan kala tiga (keluarnya plasenta/ari-ari bayi). Penolong persalinan oleh
+      tenaga kesehatan mencakup dokter kandungan, dokter umum, bidan, dan
+      perawat.
+
+Kesehatan dan Fertilitas  25
+10. Fasilitas kesehatan meliputi RS Pemerintah, RS Swasta, Klinik, Tempat praktik
+     tenaga kesehatan, Puskesmas, Pustu, dan Polindes/Poskesdes.
+
+26  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel      4.1      Angka Kesakitan Menurut Karakteristik Kabupaten Musi
+                    Rawas Utara, 2026
+
+           Karakteristik  Angka Kesakitan
+
+               (1)        (2)
+
+Jenis Kelamin
+
+Laki-Laki                 6,43
+
+Perempuan                 7,50
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        6,65
+
+40 Persen Menengah        6,20
+
+20 Persen Teratas         9,09
+
+Musi Rawas Utara          6,96
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Kesehatan dan Fertilitas                                                       27
+Tabel            Persentase Penduduk yang Mempunyai Keluhan Kesehatan dalam
+       4.2 Sebulan Terakhir dan Pernah Rawat Jalan Menggunakan Jaminan
+
+                 Kesehatan Menurut Karakteristik Kabupaten Musi Rawas Utara, 2026
+
+    Karakteristik        Mempunyai Keluhan Kesehatan dalam Sebulan Terakhir
+                        dan Pernah Rawat Jalan Menggunakan Jaminan Kesehatan
+
+       (1)              (2)
+
+Jenis Kelamin           37,13
+                        46,94
+Laki-Laki
+Perempuan
+
+Distribusi Pengeluaran  17,25
+                        58,38
+40 Persen Terbawah      64,27
+40 Persen Menengah
+20 Persen Teratas
+
+Musi Rawas Utara        42,75
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+28                 Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel  4.3        Persentase Penduduk Menurut Karakteristik dan Jenis Jaminan
+                  Kesehatan yang Dimiliki Kabupaten Musi Rawas Utara, 2026
+
+                                     Jenis Jaminan Kesehatan
+
+Karakteristik                BPJS        Jamkesda/
+                          Kesehatan  Asuransi Swasta/
+                                                              Tidak Memiliki
+                                       Perusahaan/
+                                           Kantor
+
+       (1)                (2)        (3)                                       (4)
+
+Jenis Kelamin             73,00      13,12                                     14,20
+                          75,23      11,92                                     13,12
+Laki-Laki
+Perempuan
+
+Distribusi Pengeluaran    71,82      12,36                                     15,82
+                          77,93      11,03                                     11,79
+40 Persen Terbawah        71,00      15,87                                     13,13
+40 Persen Menengah
+20 Persen Teratas
+
+Musi Rawas Utara          74,10      12.53                                     13,67
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Kesehatan dan Fertilitas                                                       29
+Tabel            Persentase Penduduk Berumur 15 Tahun ke Atas yang
+       4.4 Merokok Tembakau selama Sebulan Terakhir Menurut
+
+                 Karakteristik Kabupaten Musi Rawas Utara, 2026
+
+       Karakteristik           Persentase Penduduk Berumur
+                        15 Tahun ke Atas yang Merokok Tembakau
+
+                                   selama Sebulan Terakhir
+
+             (1)        (2)
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah      29,77
+
+40 Persen Menengah      33,13
+20 Persen Teratas       41,73
+
+Pendidikan Tertinggi
+
+SD ke Bawah             34,49
+SMP ke Atas             33,04
+
+Musi Rawas Utara        33,68
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+30                Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel            Persentase Penduduk Berumur 0–59 Bulan (Balita) Menurut
+       4.5 Karakteristik dan Jenis Imunisasi yang Pernah Didapatkan
+
+                 Kabupaten Musi Rawas Utara, 2026
+
+                                               Jenis Imunisasi
+
+       Karakteristik      Hb-0                                                         Campak-
+              (1)          (2)   BCG Polio DPT-HB-HiB IPV Rubella
+
+                                                                                         (MR)
+
+                                 (3)    (4)    (5)                             (6)    (7)
+
+Jenis Kelamin             68,13  73,79  73,16  71,90                           40,87  49,27
+                          76,57  80.04  84,74  78,98                           49,88  58,06
+Laki-Laki
+Perempuan
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        81,75  85,32  87,37  79,58                           50,43  58,97
+40 Persen Menengah        67,58  68,48  69,97  75,97                           49,55  53,83
+20 Persen Teratas         58,43  73,57  76,75  63,39                           22,75  39,36
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               62,25  68,89  72,00  72,00                           36,76  43,34
+SMP ke Atas               76,47  80,19  81,73  76,81                           48,87  57,88
+
+Musi Rawas Utara          72,30 76,88 78,88    75,40 45,32                            53,61
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Kesehatan dan Fertilitas                                                       31
+Tabel                Persentase Penduduk Berumur 0–23 Bulan (Baduta) yang
+           4.6 Pernah Diberi ASI dan Rata-Rata Lama Pemberian ASI (bulan)
+
+                     Menurut Karakteristik Kabupaten Musi Rawas Utara, 2026
+
+                Karakteristik    Persentase    Rata-Rata Lama
+                                  Penduduk     Pemberian ASI
+                         (1)   Berumur 0–23
+Jenis Kelamin                  Bulan (Baduta)       (bulan)
+                                yang Pernah
+                                  Diberi ASI            (3)
+
+                                       (2)
+
+Laki-Laki                      92,33           9,10
+Perempuan                      86,78           12,33
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah             89,88           12,09
+40 Persen Menengah             92,22           11,28
+20 Persen Teratas              82,69           9,09
+Pendidikan Tertinggi KRT
+
+SD ke Bawah                    100,00          10,80
+SMP ke Atas                    82,78           11,32
+
+Musi Rawas Utara               88,78           11,12
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+32                Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel            Persentase Perempuan Pernah Kawin Berumur 15–49 Tahun
+       4.7 yang Pernah Melahirkan Anak Lahir Hidup (ALH) dalam Dua
+
+                 Tahun Terakhir di Fasilitas Kesehatan Menurut Karakteristik
+                 Kabupaten Musi Rawas Utara, 2026
+
+       Karakteristik      Melahirkan di Fasilitas Kesehatan
+
+                     (1)    (2)
+Distribusi Pengeluaran
+40 Persen Terbawah        90,67
+40 Persen Menengah        88,46
+20 Persen Teratas         100,00
+
+Pendidikan Tertinggi
+
+SD ke Bawah               100,00
+SMP ke Atas               90,15
+
+Musi Rawas Utara          92,23
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Kesehatan dan Fertilitas                                                       33
+    Tabel            Persentase Perempuan Pernah Kawin Berumur 15–49 Tahun
+                     yang Pernah Melahirkan Anak Lahir Hidup (ALH) dalam Dua
+           4.8 Tahun Terakhir dengan Penolong Persalinan ALH yang Terakhir
+                     oleh Tenaga Kesehatan Menurut Karakteristik Kabupaten Musi
+                     Rawas Utara, 2026
+
+           Karakteristik    Penolong Persalinan oleh Tenaga Kesehatan
+
+                 (1)        (2)
+
+    Distribusi Pengeluaran
+
+    40 Persen Terbawah      98,38
+    40 Persen Menengah      100,00
+    20 Persen Teratas       100,00
+
+    Pendidikan Tertinggi
+
+    SD ke Bawah             100,00
+    SMP ke Atas             99,06
+
+    Musi Rawas Utara        99,26
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+34                    Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel            Persentase Perempuan Berumur 15–49 Tahun yang Pernah
+       4.9 Melahirkan Anak Lahir Hidup (ALH) dalam Dua Tahun Terakhir
+
+                 Menurut Karakteristik dan Berat Badan dari ALH yang Terakhir
+                 Ketika Dilahirkan Kabupaten Musi Rawas Utara, 2026
+
+           Karakteristik  <2,5 kg  ≥2,5 kg     Tidak   Jumlah
+                             (2)      (3)   Ditimbang     (5)
+                    (1)
+Distribusi Pengeluaran                        /Tidak
+40 Persen Terbawah                             Tahu
+40 Persen Menengah
+20 Persen Teratas                                (4)
+Pendidikan Tertinggi
+SD ke Bawah               26,27    73,73    ̶          100,00
+SMP ke Atas                NA      83,64
+                           NA      86,18          ̶    100,00
+
+                                            NA         100,00
+
+                          ̶        100,00      ̶       100,00
+
+                          25,52    74,30    NA         100,00
+
+Musi Rawas Utara          19,98    79,72    NA         100,00
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Kesehatan dan Fertilitas                                                       35
+36  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+INFOGRAFIS
+PERUMAHAN
+38  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                                        BAB V
+                                    PERUMAHAN
+
+PENJELASAN TEKNIS
+
+1. Kepemilikan bangunan adalah status penguasaan bangunan tempat tinggal atau
+    rumah yang ditempati dilihat dari sisi Anggota Rumah Tangga (ART) yang
+    menempatinya. Terdiri atas milik sendiri, kontrak/sewa, bebas sewa, rumah dinas,
+    dan lainnya.
+
+2. Milik sendiri merupakan status kepemilikan bangunan tempat tinggal di mana
+    tempat tinggal tersebut merupakan milik kepala rumah tangga atau salah seorang
+    ART. Rumah yang dibeli secara angsuran melalui kredit bank atau rumah dengan
+    status sewa beli dianggap rumah milik sendiri.
+
+3. Kloset merupakan tempat buang air besar. Kloset leher angsa adalah kloset yang
+    biasanya terbuat dari porselen dan di bawah dudukannya terdapat saluran
+    berbentuk huruf “U” (seperti leher angsa) dengan maksud menampung air untuk
+    menahan agar bau tinja tidak keluar.
+    Kloset plengsengan adalah jamban/kakus (tempat buang air kecil atau buang air
+    besar) yang di bawah dudukannya terdapat saluran rata yang dimiringkan ke tempat
+    pembuangan kotoran.
+    Kloset cemplung/cubluk adalah jamban/kakus yang di bawah dudukannya tidak ada
+    saluran, sehingga tinja langsung ke tempat pembuangan/penampungan akhirnya.
+
+4. Tangki septik adalah tempat pembuangan akhir yang berupa bak penampungan,
+    biasanya terbuat dari pasangan bata/batu atau beton di semua sisinya juga bagian
+    dasarnya. Beberapa jenis jamban/kakus yang disediakan di tempat umum/
+    keramaian, seperti di taman kota, tempat penampungannya dapat berupa tong yang
+    terbuat dari logam atau kayu. Tempat penampungan ini bisa dilepas untuk diangkut
+    ke tempat pembuangan.
+
+5. Instalasi Pengolahan Air Limbah (IPAL) adalah sebuah struktur yang dirancang untuk
+    membuang limbah biologis dan kimiawi dari air sehingga memungkinkan air tersebut
+    untuk digunakan untuk aktivitas lain.
+
+6. Sumber air utama mengacu pada sumber air yang digunakan sehari-hari, baik untuk
+    minum atau untuk mandi/cuci/dll. Jika responden menggunakan beberapa sumber
+    air, maka sumber air utama mengacu pada volume air yang paling banyak digunakan
+    oleh rumah tangga.
+
+Perumahan  39
+40  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel                  Persentase Rumah Tangga Menurut Karakteristik dan
+             5.1 Status Kepemilikan Bangunan Tempat Tinggal yang Ditempati
+
+                       Kabupaten Musi Rawas Utara, 2026
+
+Karakteristik             Milik Sendiri  Lainnya1  Jumlah
+
+           (1)            (2)            (3)       (4)
+
+Jenis Kelamin KRT
+
+Laki-Laki                 87,63          12,37     100,00
+
+Perempuan                 81,50          18,50     100,00
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        86,24          13,76     100,00
+
+40 Persen Menengah        86,51          13,49     100,00
+
+20 Persen Teratas         89,88          10,12     100,00
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               91,51          8,49      100,00
+
+SMP ke Atas               82,41          17,59     100,00
+
+Musi Rawas Utara          87,14          12,86     100,00
+
+Catatan: 1 Lainnya termasuk kontrak/sewa/bebas sewa/rumah dinas/rumah
+
+           adat/lainnya
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Perumahan                                                                      41
+    Tabel              Persentase Rumah Tangga Menurut Karakteristik dan
+             5.2 Bahan Bangunan Utama Atap Rumah Terluas Kabupaten Musi
+
+                       Rawas Utara, 2026
+
+    Karakteristik         Beton/Genteng/   Lainnya1  Jumlah
+          (1)             Seng/Kayu/Sirap     (3)      (4)
+
+                                  (2)
+
+Jenis Kelamin KRT
+
+Laki-Laki                 99,35            NA        100,00
+
+Perempuan                 100,00           ̶         100,00
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        99,56            NA        100,00
+
+40 Persen Menengah        99,41            NA        100,00
+
+20 Persen Teratas         99,09            NA        100,00
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               99,68            NA        100,00
+
+SMP ke Atas               99,10            NA        100,00
+
+Musi Rawas Utara          99,40            NA        100,00
+
+Catatan: 1Lainnya termasuk asbes/bambu/jerami/ijuk/daun-daunan/rumbia/lainnya
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+42                 Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel                  Persentase Rumah Tangga Menurut Karakteristik dan
+             5.3 Bahan Bangunan Utama Dinding Rumah Terluas Kabupaten
+
+                       Musi Rawas Utara, 2026
+
+       Karakteristik          Tembok/   Lainnya1         Jumlah
+                             Plesteran     (3)             (4)
+             (1)             Anyaman
+Jenis Kelamin KRT         Bambu/Kawat/
+                           Kayu/Papan/
+                           Batang Kayu
+
+                                  (2)
+
+Laki-Laki                 99,98         NA               100,00
+
+Perempuan                 100,00        ̶                100,00
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        100,00                 ̶       100,00
+
+40 Persen Menengah        99,95         NA               100,00
+
+20 Persen Teratas         100,00              ̶          100,00
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               99,96         NA               100,00
+
+SMP ke Atas               100,00           ̶             100,00
+
+Musi Rawas Utara          99,98         NA               100,00
+
+Catatan: 1 Lainnya termasuk bambu/anyaman bambu/lainnya
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Perumahan                                                                      43
+    Tabel              Persentase Rumah Tangga Menurut Karakteristik dan
+             5.4 Bahan Bangunan Utama Lantai Rumah Terluas Kabupaten
+
+                       Musi Rawas Utara, 2026
+
+      Karakteristik         Marmer/Granit/      Lainnya1         Jumlah
+                                 Keramik/          (3)             (4)
+            (1)
+Jenis Kelamin KRT         Ubin/Tegel/Teraso/
+                          Parket/Vinil/Karpet/
+
+                              Kayu/Papan/
+                          Semen/Bata Merah
+
+                                     (2)
+
+Laki-Laki                 99,75                      NA          100,00
+
+Perempuan                 100,00                           ̶     100,00
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        100,00                     ̶           100,00
+
+40 Persen Menengah        99,44                      NA          100,00
+
+20 Persen Teratas         100,00                              ̶  100,00
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               100,00                        ̶        100,00
+
+SMP ke Atas               99,53                      NA          100,00
+
+Musi Rawas Utara          99,77                      NA          100,00
+
+Catatan: 1 Lainnya termasuk bambu/tanah dan lainnya
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+44                   Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel                  Persentase Rumah Tangga Menurut Karakteristik,
+             5.5 Kepemilikan, dan Penggunaan Fasilitas Tempat Buang
+
+                       Air Besar Kabupaten Musi Rawas Utara, 2026
+
+           Karakteristik  Ada Fasilitas  Lainnya1                  Jumlah
+                           Digunakan
+
+                             Sendiri
+
+             (1)          (2)            (3)                       (4)
+
+Jenis Kelamin KRT
+
+Laki-Laki                 82,57          17,43                     100,00
+
+Perempuan                 74,78          25,22                     100,00
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        71,88          28,12                     100,00
+
+40 Persen Menengah        86,46          13,54                     100,00
+
+20 Persen Teratas         91,08          8,92                      100,00
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               77,27          22,73                     100,00
+
+SMP ke Atas               87,00          13,00                     100,00
+
+Musi Rawas Utara          81,95          18,05                     100,00
+
+Catatan: 1 Lainnya termasuk fasilitas yang digunakan bersama rumah tangga
+
+           tertentu/MCK komunal/MCK umum/siapapun menggunakan/tidak
+
+           menggunakan/tidak ada fasilitas tempat buang air besar
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Perumahan                                                                      45
+    Tabel              Persentase Rumah Tangga yang Memiliki Fasilitas Tempat
+                       Buang Air Besar dengan Penggunaan Sendiri, Bersama Rumah
+             5.6
+                       Tangga Tertentu, atau di MCK Komunal Menurut Karakteristik
+                       dan Jenis Kloset Kabupaten Musi Rawas Utara, 2026
+
+           Karakteristik  Leher Angsa  Lainnya1             Jumlah
+
+           (1)            (2)          (3)                    (4)
+
+Jenis Kelamin KRT                                           100,00
+                                                            100,00
+Laki-Laki                 97,86        2,14
+                                                            100,00
+Perempuan                 100,00       ̶                    100,00
+                                                            100,00
+Distribusi Pengeluaran
+                                                            100,00
+40 Persen Terbawah        98,07        NA                   100,00
+
+40 Persen Menengah        98,66        1,34
+
+20 Persen Teratas         96,79        NA
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               98,48        1,52
+
+SMP ke Atas               97,58        NA
+
+Musi Rawas Utara          98,03        1,97                 100,00
+
+Catatan: 1Lainnya termasuk plengsengan dan cemplung/cubluk
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+46                 Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel                  Persentase Rumah Tangga yang Memiliki Fasilitas Tempat
+                       Buang Air Besar dengan Penggunaan Sendiri, Bersama Rumah
+             5.7 Tangga Tertentu, atau di MCK Komunal Menurut Karakteristik
+                       dan Tempat Pembuangan Akhir Tinja Kabupaten Musi Rawas
+                       Utara, 2026
+
+Karakteristik             Tangki Septik/  Lainnya1  Jumlah
+                                IPAL
+
+           (1)            (2)             (3)       (4)
+
+Jenis Kelamin KRT
+
+Laki-Laki                 87,75           12,25     100,00
+
+Perempuan                 84,73           NA        100,00
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        86,38           13,62     100,00
+
+40 Persen Menengah        87,99           12,01     100,00
+
+20 Persen Teratas         88,30           11,70     100,00
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               87,66           12,34     100,00
+
+SMP ke Atas               87,37           12,63     100,00
+
+Musi Rawas Utara          87,51           12,49     100,00
+
+Catatan: 1Lainnya termasuk kolam/sawah/sungai/danau/laut/lubang tanah/
+              pantai/tanah lapang/kebun/lainnya
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Perumahan                                                   47
+    Tabel 5.8       Persentase Rumah Tangga Menurut Karakteristik dan
+                    Sumber Air Utama yang Digunakan untuk Minum Kabupaten
+                    Musi Rawas Utara, 2026
+
+     Karakteristik      Air Kemasan  Sumur Bor/   Lainnya1 Jumlah
+                         Bermerek/     Pompa/
+           (1)                          Sumur     (4)                    (5)
+Jenis Kelamin KRT           Air Isi
+                           Ulang/    Terlindung/
+                           Leding     Mata Air
+
+                              (2)    Terlindung/
+                                      Air Hujan
+
+                                          (3)
+
+Laki-Laki                 33,60      56,72        9,68                   100,00
+
+Perempuan                 28,21      62,03        NA                     100,00
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        22,59      62,19        15,22                  100,00
+
+40 Persen Menengah        40,47      54,60        4,93                   100,00
+
+20 Persen Teratas         37,97      53,09        8,94                   100,00
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               24,49      62,18        13,32                  100,00
+
+SMP ke Atas               42,54      51,70        5,75                   100,00
+
+Musi Rawas Utara          33,17      57,14        9,69                   100,00
+
+Catatan: 1Lainnya termasuk sumur tak terlindung/mata air tak terlindung/
+
+           air permukaan (sungai/danau/waduk/kolam/irigasi)/dan lainnya
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+48                  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel 5.9             Persentase Rumah Tangga Menurut Karakteristik dan
+                      Sumber Air Utama yang Digunakan untuk Mandi/Cuci/dll.
+                      Kabupaten Musi Rawas Utara, 2026
+
+       Karakteristik           Air    Sumur Bor/   Lainnya1      Jumlah
+                           Kemasan      Pompa/        (4)          (5)
+             (1)          Bermerek/      Sumur
+Jenis Kelamin KRT
+                             Air Isi  Terlindung/
+                            Ulang/     Mata Air
+                            Leding
+                                      Terlindung/
+                               (2)     Air Hujan
+                                           (3)
+
+Laki-Laki                 2,51        76,42        21,08         100,00
+
+Perempuan                 5,21        76,01        18,77         100,00
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        2,79        68,76        28,44         100,00
+
+40 Persen Menengah        2,79        81,25        15,96         100,00
+
+20 Persen Teratas         2,49        80,57        16,94         100,00
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               1,54        71,78        26,68         100,00
+
+SMP ke Atas               4,00        81,35        14,64         100,00
+
+Musi Rawas Utara          2,72        76,38        20,89         100,00
+
+Catatan: 1Lainnya termasuk sumur tak terlindung/mata air tak terlindung/air
+
+           permukaan (sungai/danau/waduk/kolam/irigasi)/lainnya
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Perumahan                                                                      49
+    Tabel 5.10      Persentase Rumah Tangga Menurut Karakteristik dan
+                    Sumber Utama Penerangan Kabupaten Musi Rawas Utara, 2026
+
+    Karakteristik         Listrik PLN  Lainnya1           Jumlah
+
+           (1)            (2)          (3)                (4)
+
+Jenis Kelamin KRT
+
+Laki-Laki                 99,32        0,68               100,00
+
+Perempuan                 100,00       ̶                  100,00
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        99,65        NA                 100,00
+
+40 Persen Menengah        98,99        NA                 100,00
+
+20 Persen Teratas         99,59        NA                 100,00
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               99,53        NA                 100,00
+
+SMP ke Atas               99,20        NA                 100,00
+
+Musi Rawas Utara          99,37        0,63               100,00
+
+Catatan: 1Lainnya termasuk listrik non-PLN/bukan listrik
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+50                 Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+    INFOGRAFIS
+
+51  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+52  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                                        BAB VI
+                                       LAINNYA
+
+PENJELASAN TEKNIS
+
+1. Telepon seluler (HP) adalah adalah perangkat telekomunikasi elektronik yang
+     mempunyai kemampuan dasar yang sama dengan telepon tetap kabel, namun
+     dapat dibawa ke mana-mana (portable, mobile) dan tidak perlu disambungkan
+     dengan jaringan telekomunikasi kabel. Selain berfungsi sebagai telepon, telepon
+     seluler modern biasanya mendukung layanan tambahan seperti Short Messages
+     Services (SMS), Multimedia Messages Service (MMS), e-mail dan akses Internet,
+     aplikasi bisnis dan permainan, serta fotografi.
+
+2. Komputer mengacu pada komputer desktop, laptop (portable) atau tablet (atau
+     komputer genggam yang serupa).
+      a. Personal Computer (PC)/Desktop adalah komputer yang biasanya tetap di
+           satu tempat, biasanya pengguna ditempatkan di depannya, di belakang
+           keyboard.
+      b. Laptop (Portable) adalah komputer yang berukuran cukup kecil sehingga
+           mudah dibawa dan umumnya mampu menjalankan tugas yang sama seperti
+           komputer desktop. Jenis komputer ini mencakup notebook dan netbook,
+           namun tidak termasuk tablet maupun perangkat komputer genggam lainnya.
+      c. Tablet (atau sejenis komputer genggam) adalah komputer yang terintegrasi
+           ke layar sentuh datar, yang dioperasikan dengan menyentuh layar dari pada
+           menggunakan keyboard fisik. Dalam hal ini tidak termasuk peralatan dengan
+           beberapa kemampuan komputasi, seperti set TV pintar, dan perangkat
+           dengan telepon sebagai fungsi utama mereka, seperti smartphone. Tablet
+           meskipun bisa digunakan untuk menelepon, tidak dimasukan dalam kelompok
+           telepon seluler karena fungsi utama tablet adalah sebagai komputer.
+
+3. Internet adalah Internet adalah sebuah jaringan komputer publik di seluruh dunia.
+     Internet menyediakan akses ke sejumlah layanan komunikasi termasuk world wide
+     web dan membawa e-mail, berita, hiburan, dan file data, terlepas dari perangkat
+     yang digunakan (tidak diasumsikan hanya melalui komputer, mungkin juga melalui
+     telepon seluler, tablet, Personal Digital Assistant (PDA), mesin gim, TV digital, dll.).
+     Akses bisa melalui jaringan fixed maupun mobile.
+
+4. Program bantuan sosial pangan dalam publikasi ini meliputi Program Bantuan
+     Pangan Non Tunai (BPNT) atau Program Sembako. Bantuan Pangan Nontunai
+     (BPNT) adalah bantuan sosial yang disalurkan secara nontunai dari pemerintah
+     yang diberikan kepada KPM setiap bulannya melalui uang elektronik selanjutnya
+     digunakan untuk membeli bahan pangan yang telah ditentukan di e-Warong.
+     Sedangkan Program Sembako merupakan program pengembangan dari BPNT sejak
+
+Lainnya  53
+     tahun 2020. Program sembako adalah program Bantuan Sosial pangan yang
+     diberikan dalam bentuk tunai atau nontunai kepada keluarga penerima manfaat
+     yang terdaftar dalam data terpadu kesejahteraan sosial.
+5. Kredit Usaha Rakyat (KUR) merupakan salah satu skema kredit yang diberikan
+     perbankan kepada UMKM dan Koperasi dengan pola penjaminan yang bekerja
+     sama dengan Lembaga Penjamin yang ditetapkan oleh pemerintah. Fasilitas kredit
+     modal kerja atau investasi ini diberikan kepada usaha mikro, kecil, menengah dan
+     Koperasi yang memiliki usaha produktif yang feasible tapi belum bankable.
+     Maksudnya adalah usaha tersebut secara ekonomi layak dijalankan dan bisa
+     menghasilkan keuntungan, namun belum bisa memenuhi syarat perbankan formal
+     untuk mendapatkan kredit karena keterbatasan agunan, riwayat kredit, atau
+     dokumentasi keuangan yang kurang memadai.
+6. Program Keluarga Harapan (PKH) merupakan program bantuan sosial (bansos)
+     bersyarat yang diberikan kepada keluarga miskin/rentan sesuai dengan kriteria
+     yang ditetapkan. PKH menjadi salah satu upaya pemerintah untuk memperbaiki
+     akses keluarga miskin dan rentan terhadap layanan kesehatan, pendidikan, dan
+     kesejahteraan sosial guna meningkatkan kualitas hidup keluarga sasaran dan,
+     dalam cakupan lebih luas, mengurangi kemiskinan dan kesenjangan.
+
+54  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel              Persentase Penduduk Berumur 5 Tahun ke Atas Menurut
+         6.1 Karakteristik dan Penggunaan Teknologi Informasi dalam Tiga
+
+                   Bulan Terakhir Kabupaten Musi Rawas Utara, 2026
+
+Karakteristik             Pernah Menggunakan           Pernah Menggunakan Internet
+                      Telepon Seluler (HP)/Nirkabel  (Termasuk Facebook, X, Youtube,
+                      atau Komputer (PC/Desktop,
+                                                          Instagram, WhatsApp, dll)
+                        Laptop/Notebook, Tablet)
+
+             (1)        (2)                            (3)
+Jenis Kelamin
+Laki-Laki             90,15                          77,60
+Perempuan             83,63                          71,84
+Kelompok Pengeluaran
+40 Persen Terbawah    84,62                          69,50
+40 Persen Menengah    88,29                          79,03
+20 Persen Teratas     88,71                          76,51
+Pendidikan Tertinggi
+SD ke Bawah           79,17                          61,21
+SMP ke Atas           96,75                          91,92
+
+Musi Rawas Utara      86,92                          74,75
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lainnya                                                                        55
+Tabel               Persentase Rumah Tangga yang Menerima Kredit dalam
+          6.2 Setahun Terakhir Menurut Jenis Kredit Kabupaten Musi Rawas
+
+                    Utara, 2026
+
+          Jenis Kredit           Persentase Rumah Tangga yang
+                                              Menerima
+
+          (1)                    (2)
+
+Kredit Usaha Rakyat (KUR)        2,67
+
+Selain KUR Bersumber dari Bank1  3,63
+
+Lainnya2                         7,22
+
+Catatan: 1Selain KUR Bersumber dari Bank terdiri dari: Kredit dari bank umum selain KUR dan
+              Bank Perkreditan Rakyat (BPR).
+             2Lainnya terdiri dari: Kredit dari koperasi, perorangan dengan bunga, pergadaian,
+              perusahaan leasing, Badan Usaha Milik Desa (BUMDes), pinjaman online, PNM-
+              Mekaar, dan lainnya.
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+56        Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel              Persentase Rumah Tangga Menurut Jenis Program
+         6.3 Perlindungan Sosial yang Diterima Kabupaten Musi Rawas
+
+                   Utara, 2026
+
+         Jenis Program Perlindungan Sosial  Persentase Rumah Tangga
+                                                  yang Menerima
+
+         (1)                                (2)
+
+Bantuan Pangan (BPNT/Program Sembako)1      10,08
+
+Bantuan Program Keluarga Harapan (PKH)2     15,64
+
+Catatan: 1Referensi waktu adalah selama empat bulan terakhir
+           2 Referensi waktu adalah selama satu tahun terakhir
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lainnya                                                                        57
+Tabel  6.4  Persentase Rumah Tangga Menurut Jenis Jaminan Sosial yang
+            Dimiliki atau Diterima Kabupaten Musi Rawas Utara, 2026
+
+       Jenis Jaminan Sosial               Persentase Rumah Tangga
+
+            (1)                           (2)
+
+Jaminan Pensiun/Hari Tua1                 3,72
+
+Asuransi/Pemutusan Hubungan Kerja (PHK)2  8,13
+
+Catatan: 1Jaminan Pensiun/Hari Tua terdiri dari: Jaminan pensiun/veteran dan jaminan hari tua.
+            2Asuransi/Pemutusan Hubungan Kerja (PHK) terdiri dari: Jaminan/asuransi kecelakaan
+             kerja, jaminan/asuransi kematian, Jaminan Kehilangan Pekerjaan (JKP), dan pesangon
+             PHK.
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+58          Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel    6.5        Persentase Rumah Tangga Menurut Jenis Aset yang Dimiliki
+                    Kabupaten Musi Rawas Utara, 2026
+
+                 Jenis Aset    Persentase Rumah Tangga
+
+                          (1)    (2)
+Aset Fasilitas Rumah Tangga1   76,41
+
+Aset Transportasi2             89,79
+
+Aset Investasi3                92,30
+
+Catatan: 1Aset Fasilitas Rumah Tangga terdiri dari: Tabung gas 5,5 kg atau lebih, lemari es/kulkas,
+             AC, pemanas air, dan TV layar datar minimal 30 inci.
+            2Aset Transportasi terdiri dari: Sepeda motor, perahu, perahu motor, dan mobil.
+            3Aset Investasi terdiri dari: Emas/perhiasan minimal 10 gram, tanah/lahan, dan uang
+             tunai/tabungan senilai 10 gram emas.
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lainnya                                                 59
+60  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+         INFOGRAFIS
+KONSUMSI DAN PENGELUARAN
+62  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                                        BAB VII
+                        KONSUMSI DAN PENGELUARAN
+
+PENJELASAN TEKNIS
+
+1. Rata-rata pengeluaran per kapita sebulan adalah biaya yang dikeluarkan untuk
+     konsumsi semua anggota rumah tangga selama sebulan dibagi dengan banyaknya
+     anggota rumah tangga. Pengeluaran untuk konsumsi makanan dihitung selama
+     seminggu terakhir, sedangkan konsumsi bukan makanan dihitung sebulan dan
+     setahun terakhir. Baik konsumsi makanan maupun bukan makanan selanjutnya
+     dikonversikan ke dalam pengeluaran rata-rata sebulan. Angka
+     konsumsi/pengeluaran rata-rata per kapita yang disajikan dalam publikasi ini
+     diperoleh dari hasil bagi jumlah konsumsi seluruh rumah tangga (baik mengonsumsi
+     makanan maupun tidak) terhadap jumlah penduduk.
+
+2. Konsumsi kalori dan protein dihitung dengan mengalikan kuantitas setiap makanan
+     yang dikonsumsi dengan nilai kandungan kalori dan protein setiap jenis makanan
+     berdasarkan daftar konversi zat gizi.
+
+Konsumsi dan Pengeluaran  63
+64  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel                Rata-Rata Pengeluaran per Kapita Sebulan Menurut Kelompok
+           7.1 Komoditas dan Distribusi Pengeluaran Kabupaten Musi Rawas
+
+                     Utara (rupiah), 2026
+
+                                      Distribusi Pengeluaran                 Total
+                                                                          Rata-Rata
+     Kelompok Komoditas       40 Persen  40 Persen            20 Persen  Pengeluaran
+                              Terbawah   Menengah              Teratas
+           (1)                                                                 (5)
+                                  (2)         (3)                 (4)      105.257
+1. Padi-padian                  94.956    105.645              125.066
+                                                                             7.845
+2. Umbi-umbian                  5.059       9.072              10.957
+                                                                            70.887
+3.   Ikan/Udang/              54.140     78.026               90.068
+     Cumi/Kerang                                                            39.602
+                                                                            45.843
+4. Daging                     25.003     42.160               63.660        74.514
+                              32.777     50.720               62.196        10.496
+5. Telur dan Susu             56.428     81.574               96.530        43.155
+                              8.331      11.660               12.492        21.618
+6. Sayur-sayuran              27.478     50.452               59.882        24.276
+                              18.827     22.437               25.557        14.163
+7. Kacang-kacangan            20.711     25.416               29.119        18.351
+                              10.294     15.641               18.938
+8. Buah-buahan                12.680     21.837               22.709       207.151
+
+9. Minyak dan Kelapa                                                       133.400
+
+10. Bahan Minuman
+
+11. Bumbu-bumbuan
+
+12. Bahan Makanan Lainnya
+
+13.  Makanan dan              152.694    238.955              252.339
+     Minuman Jadi
+
+14. Rokok dan Tembakau        88.822     145.953              197.370
+
+     Jumlah Makanan           608.201    899.548 1.066.883               816.558
+
+15.  Perumahan dan Fasilitas  150.423    308.881              413.368    266.440
+     Rumah Tangga             57.645     105.182              126.155    90.375
+                              17.333     31.611               35.501     26.682
+16. Aneka Barang dan Jasa      7.438     43.875               81.114     36.759
+                              26.814     52.889               63.694     44.627
+17.  Pakaian, Alas Kaki, dan                                              2.480
+     Tutup Kepala               204       2.768                6.453
+                                                                         467.364
+18. Barang Tahan Lama         259.859    545.206              726.285
+
+19.  Pajak, Pungutan, dan
+     Asuransi
+
+20.  Keperluan Pesta dan
+     Upacara/Kenduri
+
+     Jumlah Bukan Makanan
+
+     Rata-Rata Pengeluaran    868.059    1.444.754 1.793.168             1.283.922
+        Musi Rawas Utara
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Konsumsi dan Pengeluaran                                                       65
+    Tabel            Rata-Rata Konsumsi Kalori per Kapita Sehari Menurut
+           7.2 Kelompok Komoditas Makanan dan Distribusi Pengeluaran
+
+                     Kabupaten Musi Rawas Utara (kkal), 2026
+
+                                   Distribusi Pengeluaran                   Total
+                                                                         Rata-Rata
+     Kelompok Komoditas    40 Persen  40 Persen            20 Persen  Konsumsi Kalori
+            Makanan        Terbawah   Menengah              Teratas
+
+           (1)             (2)        (3)                  (4)                 (5)
+
+1. Padi-padian             796,07     921,42               1.046,06            896,25
+
+2. Umbi-umbian             37,48      59,37                74,45               53,64
+                           52,53      64,16                75,49               61,78
+3.   Ikan/Udang/
+     Cumi/Kerang
+
+4. Daging                  64,38      88,57                120,33              85,26
+
+5. Telur dan Susu          51,12      69,43                79,34               64,09
+
+6. Sayur-sayuran           50,60      59,23                74,37               58,81
+
+7. Kacang-kacangan         28,37      42,13                41,91               36,59
+
+8. Buah-buahan             38,53      58,40                63,87               51,55
+
+9. Minyak dan Kelapa       239,65     297,81               331,06              281,21
+
+10. Bahan Minuman          100,53     118,82               134,03              114,55
+
+11. Bumbu-bumbuan          6,38       6,16                 8,07                6,63
+
+12. Bahan Makanan Lainnya  66,89      100,02               109,08              88,59
+                           485,63     583,10               618,95              551,31
+13.  Makanan dan
+     Minuman Jadi
+
+14. Rokok dan Tembakau
+
+     Rata-Rata Konsumsi    2.018,18   2.468,63             2.777,02            2.350,26
+      Musi Rawas Utara
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+66                 Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Tabel                Rata-Rata Konsumsi Protein per Kapita Sehari Menurut
+           7.3 Kelompok Komoditas Makanan dan Distribusi Pengeluaran
+
+                     Kabupaten Musi Rawas Utara (gram), 2026
+
+                                  Distribusi Pengeluaran                Total
+                                                                     Rata-Rata
+     Kelompok Komoditas    40 Persen  40 Persen           20 Persen  Konsumsi
+            Makanan        Terbawah   Menengah             Teratas
+                                                                      Protein
+
+           (1)             (2)        (3)                 (4)                  (5)
+
+1. Padi-padian             18,73      21,76               24,73                21,15
+
+2. Umbi-umbian             0,35       0,53                0,64                 0,48
+
+3.   Ikan/Udang/           9,92       11,86               14,29                11,57
+     Cumi/Kerang
+
+4. Daging                  4,11       5,90                8,32                 5,67
+
+5. Telur dan Susu          2,62       3,66                4,12                 3,34
+
+6. Sayur-sayuran           3,00       3,44                4,20                 3,42
+
+7. Kacang-kacangan         2,90       4,01                4,17                 3,60
+
+8. Buah-buahan             0,44       0,65                0,75                 0,59
+
+9. Minyak dan Kelapa       0,14       0,17                0,15                 0,15
+
+10. Bahan Minuman          0,59       0,64                0,68                 0,63
+
+11. Bumbu-bumbuan          0,26       0,26                0,36                 0,28
+
+12. Bahan Makanan Lainnya  1,38       1,95                2,10                 1,75
+                           14,84      20,23               23,18                18,67
+13.  Makanan dan
+     Minuman Jadi
+
+14. Rokok dan Tembakau
+
+     Rata-Rata Konsumsi    59,28      75,08               87,69                71,29
+      Musi Rawas Utara
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Konsumsi dan Pengeluaran                                                             67
+68  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+           INFOGRAFIS
+“Ulasan Tematik Kabupaten/Kota”
+70  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                                       BAB VIII
+                   PERKEMBANGAN TINGKAT KEMISKINAN
+
+                       KABUPATEN MUSI RAWAS UTARA
+
+        Kemiskinan merupakan permasalahan yang kompleks bagi setiap negara
+berkembang. Bappenas mendefinisikan kemiskinan sebagai kedidakmampuan
+seseorang atau sekelompok orang, baik laki-laki maupun perempuan dalam memebuhi
+hak-hak dasarnya untuk mempertahankan dan mengembangkan kehidupan yang
+bermartabat. Hak-hak dasar tersebut meliputi terpenuhinya kebutuhan pangan,
+kesehatan, pendidikan, pekerjaan, perumahan, air bersih, pertahanan, sumber daya
+alam, lingkungan hidup, rasa aman dari perlakuan atau ancaman tindak kekerasan, dan
+hak untuk berpartisipasi dalam kehidupan sosial politik.
+
+        Hingga saat ini kemiskinan masih menjadi prioritas dalam pembangunan. Oleh
+karena itu, pemerintah terus berupaya membuat berbagai program untuk
+mengentaskan kemiskinan. Dalam Outcome Document Transforming Our World: The
+2030 Agenda For Sustainable Development, mengakhiri kemiskinan juga menjadi tujuan
+pertama dari tujuh belas tujuan yang disepakti dalam Sustainable Development Goals
+(SDGs). Selain itu, dalam RPJMN 2025 - 2029, strategi pengurangan tingkat kemiskinan
+juga menjadi salah satu prioritas pembangunan nasional.
+
+        Dalam upaya pengentasan kemiskinan di suatu daerah, diperlukan data
+kemiskinan yang akurat sebagai dasar pengambilan kebijakan. Data kemiskinan yang
+akurat dapat digunakan untuk perencanaan, monitoring, dan evaluasi program
+kemiskinan yang telah dibuat oleh pemerintah. Hal ini tentu saja juga akan berdampak
+terhadap target, rencana dan program yang akan dibuat selanjutnya, agar bisa lebih
+tepat sasaran.
+
+8.1 PENGUKURAN DATA KEMISKINAN
+        Badan Pusat Statistik (BPS) pertama kali melakukan penghitungan jumlah dan
+
+persentase penduduk miskin pada tahun 1984. Pada saat itu, penghitungan mencakup
+periode 1976-1981 dengan menggunakan data Survei Sosial Ekonomi Nasional (Susenas)
+Modul Konsumsi. Sejak saat itu, setiap tiga tahun sekali BPS secara rutin mengeluarkan
+data jumlah dan persentase penduduk miskin yang disajikan menurut daerah perkotaan
+dan perdesaan. Kemudian baru sejak tahun 2002, BPS dapat menyajikan data jumlah
+dan persentase penduduk miskin secara rutin setiap tahun.
+
+        Dalam mengukur kemiskinan, BPS menggunakan konsep pemenuhan kebutuhan
+dasar (basic needs approach). Dengan pendekatan ini, kemiskinan dipandang sebagai
+ketidakmampuan dari sisi ekonomi untuk memenuhi kebutuhan dasar makanan dan
+bukan makanan yang diukur dari sisi pengeluaran. Sehingga penduduk miskin dapat
+didefinisikan sebagai penduduk yang memiliki rata-rata pengeluaran per kapita per
+bulan di bawah garis kemiskinan.
+
+Tematik  71
+8.2 PERKEMBANGAN TINGKAT KEMISKINAN
+          Tingkat kemiskinan Kabupaten Musi Rawas Utara pada periode 2016 – 2026
+
+menunjukkan kecenderungan yang semakin menurun, baik dari sisi jumlah maupun
+persentase. Tetapi, pada 2020 dan 2021 terjadi peningkatan kemiskinan yang di
+antaranya disebabkan wabah Covid-19. Kemudian pada 2022 hingga 2026, tren tingkat
+kemiskinan terus menunjukkan penurunan.
+
+          Pada 2026 kemiskinan di Kabupaten Musi Rawas Utara mengalami penurunan
+yang cukup besar baik dari sisi jumlah penduduk miskin maupun dari persentase
+penduduk miskin. Perkembangan tingkat kemiskinan Maret 2016 sampai dengan Maret
+2026 disajikan pada Gambar 1.
+
+36,95 36,46 36,19 36,63 37,75 39,5 36,65 36,68 35,29
+                                                                                31,25
+
+                                                                                         24,23
+  20 19,49 19,12 19,12 19,47 20,11 18,45 18,26 17,38
+
+                                                                                15,25
+                                                                                         11,7
+
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+
+    Jumlah Penduduk Miskin (000)  Persentase Penduduk Miskin
+
+Gambar 8.1. Perkembangan Tingkat Kemiskinan dan Jumlah Penduduk Miskin
+             Kabupaten Musi Rawas Utara, 2016-2026
+
+          Pada 2016, jumlah penduduk miskin di Kabupaten Musi Rawas Utara mencapai
+36,95 ribu orang. Pada tahun 2019, jumlah penduduk miskin telah berkurang sebanyak
+0,32 ribu orang dibandingkan tahun 2016. Namun, terjadinya wabah Covid-19
+menyebabkan jumlah penduduk miskin meningkat kembali menjadi 37,75 ribu orang
+pada 2020.
+
+          Setelah wabah Covid-19 mereda, jumlah penduduk miskin terus menunjukkan
+tren penurunan dari tahun 2022 hingga 2026. Jumlah penduduk miskin pada 2026
+tercatat sebanyak 24,23 ribu orang. Jika dibandingkan dengan 2025, terjadi penurunan
+penduduk miskin sebanyak 7,02 ribu orang.
+
+72  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+8.3 PERKEMBANGAN GARIS KEMISKINAN
+          Garis Kemiskinan (GK) mencerminkan nilai rupiah pengeluaran minimum yang
+
+diperlukan seseorang untuk memenuhi kebutuhan pokok hidupnya selama sebulan,
+baik kebutuhan makanan maupun non makanan. Dengan kata lain, Garis Kemiskinan
+merupakan suatu nilai pengeluaran minimum kebutuhan makanan dan non makanan
+yang harus dipenuhi agar tidak dikategorikan miskin.
+
+                                                                                                         717.976
+
+                                                                                               666.294
+                                                                                     638.089
+                                                                          604.903
+                                                                565.070
+                                                      532.273
+                                            504.598
+                        456.844470.485
+             417.805
+   401.205
+
+     2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+
+Gambar 8.2. Perkembangan Garis Kemiskinan Kabupaten Musi Rawas Utara, 2016-2026
+
+          Garis kemiskinan di Kabupaten Musi Rawas Utara pada tahun 2026 adalah Rp
+717.976 per kapita per bulan. Artinya, bila ada penduduk dengan pengeluaran di bawah
+Rp 717.976 per bulan maka penduduk tersebut termasuk kategori penduduk miskin.
+Gambar 2 menunjukkan bahwa pada periode Maret 2016 - Maret 2026 terus terjadi
+peningkatan GK. Berdasarkan hasil Susenas Maret 2026, besaran Garis Kemiskinan
+Kabupaten Musi Rawas Utara meningkat sebesar 7,75 persen dibanding tahun 2025.
+
+8.4 INDEKS KEDALAMAN KEMISKINAN DAN KEPARAHAN KEMISKINAN
+          Persoalan kemiskinan bukan hanya sekedar berapa jumlah dan persentase
+
+penduduk miskin. Dimensi lain yang perlu diperhatikan adalah tingkat kedalaman dan
+keparahan dari Kemiskinan. Indeks Kedalaman Kemiskinan (P1) mengindikasikan jarak
+rata-rata pengeluaran penduduk miskin terhadap Garis Kemiskinan. Indeks Keparahan
+Kemiskinan (P2) mengindikasikan ketimpangan pengeluaran di antara penduduk miskin.
+
+Tematik  73
+               4,64
+
+    3,14 3,28        3,27 3,24             3,33
+
+                                3,02 3,07        3,07
+
+                                                       2,22
+                                                                 1,51
+
+     2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+
+Gambar 8.3. Perkembangan Indeks Kedalaman Kemiskinan Kabupaten Musi Rawas
+             Utara, 2016-2026
+
+          Nilai P1 Kabupaten Musi Rawas Utara pada tahun 2026 sebesar 1,51 poin,
+turun dibanding tahun 2025 yang sebesar 2,22 poin. Hal ini menunjukkan rata-rata
+pengeluaran penduduk miskin di Kabupaten Musi Rawas Utara pada tahun 2026
+semakin mendekat dengan garis kemiskinan dibanding tahun 2025. Hal tersebut
+sebagaimana ditunjukkan pada Gambar 3.
+
+                            1,59
+
+    0,72 0,77        0,93
+                                0,8 0,73 0,73 0,78
+
+                                                                            0,47
+                                                                                        0,31
+
+      2016 2017 2018 2019 2020 2021 2022 2024 2025 2026
+
+Gambar 8.4. Perkembangan Indeks Keparahan Kemiskinan Kabupaten Musi Rawas
+             Utara, 2016-2026
+
+          Kesenjangan pengeluaran di antara penduduk miskin di Kabupaten Musi Rawas
+Utara pada tahun 2026 lebih kecil atau kesenjangannya berkurang dibanding kondisi
+tahun 2025. Hal ini ditunjukkan pada Gambar 4, dengan nilai P2 yang turun pada tahun
+2026 dibanding tahun 2025, yaitu dari 0,47 poin menjadi 0,31 poin atau turun 0,16 poin.
+
+74             Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+PEMBATAS DAFTAR PUSTAKA
+76  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                                   Daftar Pustaka
+
+Badan Pusat Statistik. 2025. Buku 2 Pedoman Pencacahan Survei Sosial Ekonomi
+       Nasional Susenas Maret 2026. Jakarta: Badan Pusat Statistik
+
+Badan Pusat Statistik. 2025. Buku 3 Pedoman Pengawas Survei Sosial Ekonomi
+       Nasional Susenas Maret 2026. Jakarta: Badan Pusat Statistik.
+
+Badan Pusat Statistik. 2025. Buku 4 Konsep dan Definisi Survei Sosial Ekonomi
+       Nasional Susenas Maret 2026. Jakarta. Badan Pusat Statistik.
+
+Badan Pusat Statistik. 2025. Buku 5 Pemanfaatan Data Susenas Kor dan KP
+       Survei Sosial Ekonomi Nasional Susenas Maret 2026. Jakarta: Badan Pusat
+       Statistik.
+
+Daftar Pustaka  77
+78  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+PEMBATAS LAMPIRAN
+80  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                         Relative Standard Error (RSE) Persentase Penduduk Berumur
+Lampiran 1 10 Tahun ke Atas Menurut Karakteristik dan Status
+
+                         Perkawinan Kabupaten Musi Rawas Utara, 2026
+
+                                     Status Perkawinan
+
+        Karakteristik   Belum Kawin  Kawin              Cerai1
+                               (2)     (3)                (4)
+                (1)
+Jenis Kelamin           5,14         3,12               30,772
+Laki-Laki
+Perempuan               7,00         3,25               13,82
+Distribusi Pengeluaran
+40 Persen Terbawah      7,38         4,19               19,03
+40 Persen Menengah      6,16
+20 Persen Teratas       10,00        3,51               23,95
+Pendidikan Tertinggi
+                                     4,49               26,782
+
+SD ke Bawah             6,59         3,59               15,41
+SMP ke Atas
+                        7,13         3,94               25,782
+
+Musi Rawas Utara        4,34         2,36               13,16
+
+Catatan: 1Cerai termasuk cerai hidup dan cerai mati
+           2Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                                                            81
+                             Relative Standard Error (RSE) Persentase Penduduk Berumur
+    Lampiran 2 15–49 Tahun Menurut Karakteristik dan Status Perkawinan
+
+                             Kabupaten Musi Rawas Utara, 2026
+
+                                     Status Perkawinan
+
+         Karakteristik  Belum Kawin  Kawin              Cerai1
+                               (2)     (3)                (4)
+                  (1)
+Jenis Kelamin           6,74         4,35               43,232
+Laki-Laki
+Perempuan               8,82         3,60               25,782
+Distribusi Pengeluaran
+40 Persen Terbawah      9,44         4,98               30,022
+40 Persen Menengah      9,75
+20 Persen Teratas       12,52        4,85               46,542
+
+                                     7,01               55,273
+
+Pendidikan Tertinggi
+
+SD ke Bawah             16,57        4,48               31,062
+SMP ke Atas             7,27
+                                     4,75               33,472
+
+Musi Rawas Utara        5,97         3,10               22,97
+
+Catatan: 1Cerai termasuk cerai hidup dan cerai mati
+           2Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+           3Jika RSE >50%, estimasi dianggap tidak akurat
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+82                Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                          Relative Standard Error (RSE) Persentase Penduduk Berumur
+Lampiran 3 0–17 Tahun yang Memiliki Akta Kelahiran Menurut
+
+                          Karakteristik Kabupaten Musi Rawas Utara, 2026
+
+      Karakteristik       Memiliki Akta Kelahiran
+              (1)                        (2)
+
+Jenis Kelamin                         1,22
+Laki-Laki                             1,27
+Perempuan
+Distribusi Pengeluaran                2,04
+40 Persen Terbawah                    0,58
+40 Persen Menengah                    1,46
+20 Persen Teratas
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               1,81
+
+SMP ke Atas               0,99
+
+Musi Rawas Utara          0,94
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                                                       83
+                  Relative Standard Error (RSE) Persentase Penduduk Berumur
+
+    Lampiran  4   10 Tahun ke Atas yang Berstatus Kawin dan Memiliki
+                  Buku/Akta Nikah dari KUA/Kantor Catatan Sipil Menurut
+
+                  Karakteristik Kabupaten Musi Rawas Utara, 2026
+
+      Karakteristik     Memiliki Buku/Akta Nikah
+              (1)                       (2)
+
+Jenis Kelamin                         1,76
+Laki-Laki                             1,77
+Perempuan
+Distribusi Pengeluaran                3,37
+40 Persen Terbawah                    2,58
+40 Persen Menengah                    3,16
+20 Persen Teratas
+Pendidikan Tertinggi
+
+SD ke Bawah             3,25
+
+SMP ke Atas             1,31
+
+Musi Rawas Utara        1,76
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+84                Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                         Relative Standard Error (RSE) Persentase Penduduk Berumur
+Lampiran 5 15 Tahun ke Atas Menurut Karakteristik dan Kemampuan
+
+                         Membaca dan Menulis Kabupaten Musi Rawas Utara, 2026
+
+Karakteristik           Huruf Latin  Huruf Lainnya
+
+                (1)     (2)          (3)
+Jenis Kelamin
+Laki-laki               0,65         8,92
+Perempuan
+                        0,72         8,58
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah      0,83         16,58
+                                     12,03
+40 Persen Menengah      0,34         13,47
+
+20 Persen Teratas       2,05
+
+Musi Rawas Utara        0,56         8,15
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                                                       85
+                          Relative Standard Error (RSE) Persentase Penduduk
+Lampiran 6 Berumur 7–23 Tahun Menurut Karakteristik dan
+
+                          Partisipasi Sekolah Kabupaten Musi Rawas Utara, 2026
+
+    Karakteristik       Tidak/Belum     Masih    Tidak Bersekolah
+                           Pernah    Bersekolah          Lagi
+
+                         Bersekolah
+
+              (1)       (2)          (3)         (4)
+Jenis Kelamin
+
+Laki-laki               58,821       3,93        12,99
+Perempuan
+                        99,961       5,30        12,63
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah      69,121       4,94        17,35
+40 Persen Menengah      98,281       5,57        14,17
+20 Persen Teratas                    10,41       22,39
+                           ̶
+
+Musi Rawas Utara        57,561       3,53        9,89
+
+Catatan: 1Jika RSE >50%, estimasi dianggap tidak akurat
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+86                 Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                        Relative Standard Error (RSE) Persentase Penduduk
+
+Lampiran            7   Berumur 15 Tahun ke Atas Menurut Karakteristik dan
+                        Jenjang Pendidikan Tertinggi yang Ditamatkan (Ijazah/STTB
+
+                        Tertinggi yang Dimiliki) Kabupaten Musi Rawas Utara, 2026
+
+     Karakteristik          Tidak      SD        SMP       SMA/                 Pendidikan
+           (1)          Mempunyai  Sederajat  Sederajat     SMK                    Tinggi
+                                                         Sederajat
+Jenis Kelamin              Ijazah      (3)        (4)                               (6)
+                                                             (5)
+                             (2)
+
+Laki-laki               10,30      8,42       9,37       7,92                   18,68
+Perempuan               9,17                                                    16,74
+                                   7,99       9,41       8,32
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah      12,92      9,02       11,33      10,63                  30,881
+40 Persen Menengah      12,70      11,35      11,15      10,75                  22,18
+20 Persen Teratas       20,56      16,53      18,55      12,50                  27,141
+
+Musi Rawas Utara        8,29       6,67       7,39       6,49                   15,66
+
+Catatan: 1Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                                                        87
+Lampiran       8        Relative Standard Error (RSE) Angka Kesakitan Menurut
+                        Karakteristik Kabupaten Musi Rawas Utara, 2026
+
+    Karakteristik       Angka Kesakitan
+
+               (1)      (2)
+
+Jenis Kelamin
+
+Laki-Laki               16,17
+Perempuan               15,79
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah      17,66
+40 Persen Menengah      20,22
+20 Persen Teratas       28,601
+
+Musi Rawas Utara        12,47
+
+Catatan: 1Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+88                  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                  Relative Standard Error (RSE) Persentase Penduduk yang
+
+Lampiran       9  Mempunyai Keluhan Kesehatan dalam Sebulan Terakhir dan
+                  Pernah Rawat Jalan Menggunakan Jaminan Kesehatan
+
+                  Menurut Karakteristik Kabupaten Musi Rawas Utara, 2026
+
+Karakteristik            Mempunyai Keluhan Kesehatan dalam Sebulan Terakhir
+                        dan Pernah Rawat Jalan Menggunakan Jaminan Kesehatan
+
+          (1)           (2)
+
+Jenis Kelamin           24,95
+                        19,28
+Laki- Laki
+Perempuan
+
+Distribusi Pengeluaran  48,271
+                        17,86
+40 Persen Terbawah      22,61
+40 Persen Menengah
+20 Persen Teratas
+
+Musi Rawas Utara        18,57
+
+Catatan: 1Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                                                        89
+Lampiran               Relative Standard Error (RSE) Persentase Penduduk Menurut
+               10 Karakteristik dan Jenis Jaminan Kesehatan yang Dimiliki
+
+                       Kabupaten Musi Rawas Utara, 2026
+
+                                   Jenis Jaminan Kesehatan
+
+    Karakteristik          BPJS        Jamkesda/              Tidak
+          (1)           Kesehatan  Asuransi Swasta/         Memiliki
+
+                            (2)      Perusahaan/               (4)
+                                         Kantor
+
+                                            (3)
+
+Jenis Kelamin
+
+Laki- Laki              3,77       15,25                    15,62
+                                   14,75                    17,18
+Perempuan               3,58
+                                   23,28                    22,68
+Distribusi Pengeluaran             23,37                    26,791
+                                   28,771                   29,111
+40 Persen Terbawah      6,07
+
+40 Persen Menengah      4,77
+
+20 Persen Teratas       7,57
+
+Musi Rawas Utara        3,42       14,35                    15,08
+
+Catatan: 1Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+90                 Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                      Relative Standard Error (RSE) Persentase Penduduk Berumur
+
+Lampiran     11       15 Tahun ke Atas yang Merokok Tembakau selama Sebulan
+                      Terakhir Menurut Karakteristik Kabupaten Musi Rawas
+
+                      Utara, 2026
+
+                  Karakteristik    Persentase Penduduk Berumur
+                                        15 Tahun ke Atas yang
+                        (1)              Merokok Tembakau
+Distribusi Pengeluaran                 selama Sebulan Terakhir
+
+                                                    (2)
+
+40 Persen Terbawah                 6,86
+
+40 Persen Menengah                 6,76
+
+20 Persen Teratas                  5,84
+
+Pendidikan Tertinggi
+
+SD ke Bawah                        6,05
+
+SMP ke Atas                        5,42
+
+Musi Rawas Utara                   3,96
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                                                       91
+                     Relative Standard Error (RSE) Persentase Penduduk Berumur
+
+Lampiran         12  0–59 Bulan (Balita) Menurut Karakteristik dan Jenis
+                     Imunisasi yang Pernah Didapatkan Kabupaten Musi Rawas
+
+                     Utara, 2026
+
+                                         Jenis Imunisasi
+
+    Karakteristik                                                               Campak-
+
+                          Hb-0    BCG    Polio  DPT-HB-        IPV              Rubella
+                                                   HiB                           (MR)
+
+            (1)           (2)     (3)    (4)              (5)  (6)                   (7)
+
+Jenis Kelamin
+
+Laki- Laki                10,31 9,22     9,20             9,41 18,03 15,20
+Perempuan
+                          8,94    8,07   6,90             8,46 16,00 13,60
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        7,80    6,74   6,22   8,20           16,47                 13,63
+40 Persen Menengah        12,47   12,31  11,76  10,13          17,85                 16,44
+20 Persen Teratas         22,75   16,95  15,17  20,58          46,031                33,491
+
+Pendidikan Tertinggi KRT  15,80   13,73  12,85  12,85          26,791                23,50
+                          7,41    6,76   6,25   7,09           13,35                 11,07
+SD ke Bawah
+SMP ke Atas
+
+Musi Rawas Utara          6,87    6,16   5,74             6,21 12,02                 10,14
+
+Catatan: 1Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+92                   Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                  Relative Standard Error (RSE) Persentase Penduduk Berumur
+
+Lampiran     13   0–23 Bulan (Baduta) yang Pernah Diberi ASI dan Rata-Rata
+                  Lama Pemberian ASI (bulan) Menurut Karakteristik
+
+                  Kabupaten Musi Rawas Utara, 2026
+
+                Karakteristik    Persentase         Rata-Rata Lama
+                                  Penduduk          Pemberian ASI
+                      (1)      Berumur 0–23
+Jenis Kelamin                  Bulan (Baduta)            (bulan)
+Laki- Laki                      yang Pernah
+Perempuan                         Diberi ASI                (3)
+
+                                      (2)
+
+                               7,52                 27,851
+
+                               9,93                 13,68
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah             10,28                18,31
+40 Persen Menengah             8,80                 23,44
+20 Persen Teratas              18,85                31,921
+Pendidikan Tertinggi KRT
+
+SD ke Bawah                     ~0                  24,40
+SMP ke Atas                    10,78                14,96
+
+Musi Rawas Utara               6,76                 12,78
+
+Catatan: 1Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                                                        93
+                        Relative Standard Error (RSE) Persentase Perempuan
+
+    Lampiran  14        Pernah Kawin Berumur 15–49 Tahun yang Pernah
+                        Melahirkan Anak Lahir Hidup (ALH) dalam Dua Tahun
+
+                        Terakhir di Fasilitas Kesehatan Menurut Karakteristik
+
+                        Kabupaten Musi Rawas Utara, 2026
+
+    Karakteristik       Melahirkan di Fasilitas Kesehatan
+
+              (1)       (2)
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah      8,57
+40 Persen Menengah      11,35
+20 Persen Teratas
+                         ~0
+
+Pendidikan Tertinggi
+
+SD ke Bawah             ̶
+
+SMP ke Atas             6,80
+
+Musi Rawas Utara        5,10
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+94                 Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lampiran                    Relative Standard Error (RSE) Persentase Perempuan
+                            Pernah Kawin Berumur 15–49 Tahun yang Pernah
+                   15 Melahirkan Anak Lahir Hidup (ALH) dalam Dua Tahun
+                            Terakhir dengan Penolong Persalinan ALH yang Terakhir
+                            oleh Tenaga Kesehatan Menurut Karakteristik Kabupaten
+                            Musi Rawas Utara, 2026
+
+Karakteristik           Penolong Persalinan oleh Tenaga Kesehatan
+
+             (1)        (2)
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah      1,73
+
+40 Persen Menengah      ~0
+
+20 Persen Teratas       ~0
+
+Pendidikan Tertinggi
+
+SD ke Bawah             ̶
+
+SMP ke Atas             0,97
+
+Musi Rawas Utara        0,76
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                                                       95
+                             Relative Standard Error (RSE) Persentase Perempuan
+
+    Lampiran  16             Berumur 15–49 Tahun yang Pernah Melahirkan Anak Lahir
+                             Hidup (ALH) dalam Dua Tahun Terakhir Menurut
+
+                             Karakteristik dan Berat Badan dari ALH yang Terakhir
+
+                             Ketika Dilahirkan Kabupaten Musi Rawas Utara, 2026
+
+              Karakteristik  <2,5 kg  ≥2,5 kg     Tidak
+                     (1)        (2)      (3)   Ditimbang/
+                                               Tidak Tahu
+
+                                                     (4)
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah           45,941   16,37        ̶
+40 Persen Menengah           73,882   14,45        ̶
+20 Persen Teratas            79,832   11,56    100,672
+
+Pendidikan Tertinggi
+
+SD ke Bawah                     ̶        ̶         ̶
+SMP ke Atas                  33,591   11,45    100,352
+
+Musi Rawas Utara             35,171   8,82     100,332
+
+Catatan: 1Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+           2Jika RSE >50%, estimasi dianggap tidak akurat
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+96                Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                          Relative Standard Error (RSE) Persentase Rumah Tangga
+
+Lampiran           17     Menurut Karakteristik dan Status Kepemilikan Bangunan
+                          Tempat Tinggal yang Ditempati Kabupaten Musi Rawas
+
+                          Utara, 2026
+
+Karakteristik             Milik Sendiri      Lainnya1
+
+          (1)                          (2)   (3)
+
+Jenis Kelamin KRT
+
+Laki-Laki                              2,21  15,68
+Perempuan
+                                       9,70  42,762
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah                     3,61  22,63
+
+40 Persen Menengah                     3,48  22,35
+                                             38,922
+20 Persen Teratas                      4,38
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah                            2,23  24,02
+SMP ke Atas
+                                       3,89  18,22
+
+Musi Rawas Utara                       2,17  14,73
+
+Catatan: 1Lainnya termasuk kontrak/sewa, bebas sewa, rumah dinas, rumah adat, dan
+
+ lainnya
+2Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                                                       97
+    Lampiran                Relative Standard Error (RSE) Persentase Rumah Tangga
+                   18 Menurut Karakteristik dan Bahan Bangunan Utama Atap
+
+                            Rumah Terluas Kabupaten Musi Rawas Utara, 2026
+
+    Karakteristik         Beton/Genteng/Seng/       Lainnya1
+           (1)                   Kayu/Sirap             (3)
+
+                                       (2)
+
+Jenis Kelamin KRT
+
+Laki-Laki                 0,38                      58,362
+
+Perempuan                 ~0                        ̶
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        0,44                      100,292
+                                                    100,082
+40 Persen Menengah        0,59                      100,232
+
+20 Persen Teratas         0,92
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               0,32                      100,182
+                                                    71,012
+SMP ke Atas               0,64
+
+Musi Rawas Utara          0,35                      58,352
+
+Catatan: 1Lainnya termasuk asbes, bambu/jerami/ijuk/daun-daunan/rumbia, dan
+
+      lainnya
+    2Jika RSE >50%, estimasi dianggap tidak akurat
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+98                 Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                          Relative Standard Error (RSE) Persentase Rumah Tangga
+
+Lampiran           19     Menurut Karakteristik dan Bahan Bangunan Utama
+                          Dinding Rumah Terluas Kabupaten Musi Rawas Utara,
+
+                          2026
+
+Karakteristik                    Tembok/Plesteran           Lainnya1
+       (1)                       Anyaman Bambu/                 (3)
+                                Kawat/Kayu/Papan/
+
+                                     Batang Kayu
+
+                                            (2)
+
+Jenis Kelamin KRT
+
+Laki-Laki                       0,02                        100,272
+Perempuan
+                                ~0                             ̶
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah              ~0                              ̶
+                                                            100,622
+40 Persen Menengah              0,05
+
+20 Persen Teratas               ~0                                ̶
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah                     0,04                        100,472
+
+SMP ke Atas                     ~0                          ̶
+
+Musi Rawas Utara                0,02                        100,252
+
+Catatan: 1Lainnya termasuk bambu/anyaman bambu dan lainnya
+
+2Jika RSE >50%, estimasi dianggap tidak akurat
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                                                       99
+Lampiran                    Relative Standard Error (RSE) Persentase Rumah Tangga
+                   20 Menurut Karakteristik dan Bahan Bangunan Utama Lantai
+
+                            Rumah Terluas Kabupaten Musi Rawas Utara, 2026
+
+     Karakteristik          Marmer/Granit,                Lainnya1
+            (1)              Keramik/Ubin/                    (3)
+                              Tegel/Teraso/
+                          Parket/Vinil/Karpet/
+                              Kayu/Papan/
+                          Semen/Bata Merah
+
+                                      (2)
+
+Jenis Kelamin KRT
+
+Laki-Laki                 0,25                            100,052
+
+Perempuan                 ~0                              ̶
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        ~0                                    ̶
+
+40 Persen Menengah        0,57                            100,102
+
+20 Persen Teratas         ~0                                 ̶
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               ~0                                       ̶
+
+SMP ke Atas               0,48                            100,092
+
+Musi Rawas Utara          0,23                            100,042
+
+Catatan: 1Lainnya termasuk bambu/tanah dan lainnya
+          2Jika RSE >50%, estimasi dianggap tidak akurat
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+100                Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                          Relative Standard Error (RSE) Persentase Rumah Tangga
+
+Lampiran  21              Menurut Karakteristik, Kepemilikan, dan Penggunaan
+                          Fasilitas Tempat Buang Air Besar Kabupaten Musi Rawas
+
+                          Utara, 2026
+
+Karakteristik                Ada Fasilitas   Lainnya1
+                          Digunakan Sendiri
+
+                (1)            (2)                 (3)
+Jenis Kelamin KRT
+Laki-Laki                 2,74               12,96
+Perempuan                 11,51              34,132
+Distribusi Pengeluaran
+40 Persen Terbawah        5,85               14,94
+40 Persen Menengah        3,43               21,91
+20 Persen Teratas         3,89               39,742
+Pendidikan Tertinggi KRT
+SD ke Bawah               4,37               14,84
+SMP ke Atas               3,04               20,32
+
+Musi Rawas Utara          2,67               12,13
+
+Catatan: 1Lainnya termasuk fasilitas bersama rumah tangga tertentu, MCK komunal,
+
+          MCK umum/siapapun menggunakan, tidak menggunakan, atau tidak ada
+
+ fasilitas tempat buang air besar
+2Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                                                       101
+Lampiran                    Relative Standard Error (RSE) Persentase Rumah Tangga
+                            yang Memiliki Fasilitas Tempat Buang Air Besar dengan
+                   22 Penggunaan Sendiri, Bersama Rumah Tangga Tertentu,
+                            atau di MCK Komunal Menurut Karakteristik
+                            dan Jenis Kloset Kabupaten Musi Rawas Utara, 2026
+
+     Karakteristik        Leher Angsa  Lainnya1
+
+           (1)            (2)            (3)
+                                       40,242
+Jenis Kelamin KRT
+
+Laki-Laki                 0,88
+
+Perempuan                 ~0           ̶
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        1,69         85,563
+                                       48,222
+40 Persen Menengah        0,66         66,303
+
+20 Persen Teratas         2,20
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               0,70         45,592
+                                       58,703
+SMP ke Atas               1,45
+
+(Nama Kab/Kota)           0,81         40,262
+
+Catatan: 1Lainnya termasuk plengsengan dan cemplung/cubluk
+          2Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+
+          3Jika RSE >50%, estimasi dianggap tidak akurat
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+102                Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lampiran                    Relative Standard Error (RSE) Persentase Rumah Tangga
+                            yang Memiliki Fasilitas Tempat Buang Air Besar dengan
+                            Penggunaan Sendiri, Bersama Rumah Tangga Tertentu,
+                   23 atau di MCK Komunal Menurut Karakteristik dan Tempat
+                            Pembuangan Akhir Tinja Kabupaten Musi Rawas Utara,
+                            2026
+
+Karakteristik             Tangki Septik/IPAL  Lainnya1
+
+           (1)            (2)                 (3)
+
+Jenis Kelamin KRT
+
+Laki-Laki                 2,33                16,66
+Perempuan
+                          9,44                52,363
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        4,12                26,112
+
+40 Persen Menengah        3,31                24,27
+                                              35,432
+20 Persen Teratas         4,69
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               3,06                21,75
+
+SMP ke Atas               3,34                23,09
+
+Musi Rawas Utara          2,26                15,86
+
+Catatan: 1Lainnya termasuk kolam/sawah/sungai/danau/laut, lubang tanah,
+            pantai/tanah lapang/kebun, dan lainnya
+          2Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+
+          3Jika RSE >50%, estimasi dianggap tidak akurat
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                                                         103
+Lampiran 24             Relative Standard Error (RSE) Persentase Rumah Tangga
+                        Menurut Karakteristik dan Sumber Air Utama yang
+                        Digunakan untuk Minum Kabupaten Musi Rawas Utara,
+                        2026
+
+     Karakteristik        Air Kemasan      Sumur Bor/   Lainnya1
+            (1)            Bermerek/      Pompa/Sumur       (4)
+                          Air Isi Ulang/
+                                           Terlindung/
+                              Leding         Mata Air
+
+                                 (2)       Terlindung/
+                                             Air Hujan
+
+                                                  (3)
+
+Jenis Kelamin KRT
+
+Laki-Laki                  8,20           5,10                             18,11
+Perempuan                 28,392          14,91                            66,993
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        16,35           7,09                             22,38
+40 Persen Menengah        10,73           8,07                             39,472
+20 Persen Teratas         15,19           11,20                            37,052
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               13,36           6,05                             20,53
+SMP ke Atas
+                          9,38            7,79                             32,242
+
+Musi Rawas Utara          7,89            4,84                             17,48
+
+Catatan: 1Lainnya termasuk sumur tak terlindung, mata air tak terlindung,
+
+      air permukaan (sungai/danau/waduk/kolam/irigasi), dan lainnya
+     2Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+     3Jika RSE >50%, estimasi dianggap tidak akurat
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+104                Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lampiran 25               Relative Standard Error (RSE) Persentase Rumah Tangga
+                          Menurut Karakteristik dan Sumber Air Utama yang
+                          Digunakan untuk Mandi/Cuci/dll. Kabupaten Musi Rawas
+                          Utara, 2026
+
+Karakteristik             Air Kemasan      Sumur Bor/   Lainnya1
+       (1)                 Bermerek/      Pompa/Sumur       (4)
+                          Air Isi Ulang/
+                                           Terlindung/
+                              Leding         Mata Air
+
+                                 (2)       Terlindung/
+                                             Air Hujan
+
+                                                  (3)
+
+Jenis Kelamin KRT
+
+Laki-Laki                 30,922          3,21                             11,29
+Perempuan                 40,412          10,73                            43,082
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        48,942          6,17                             14,60
+
+40 Persen Menengah        44,002          4,19                             20,40
+
+20 Persen Teratas         28,452          5,44                             25,602
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               31,472          4,85                             13,00
+SMP ke Atas
+                          35,542          3,75                             19,21
+
+Musi Rawas Utara          26,872          3,07                             10,91
+
+Catatan: 1Lainnya termasuk sumur tak terlindung, mata air tak terlindung,
+
+ air permukaan (sungai/danau/waduk/kolam/irigasi), dan lainnya
+2Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                                                           105
+Lampiran 26               Relative Standard Error (RSE) Persentase Rumah Tangga
+                          Menurut Karakteristik dan Sumber Utama Penerangan
+                          Kabupaten Musi Rawas Utara, 2026
+
+     Karakteristik        Listrik PLN  Lainnya1
+
+           (1)            (2)          (3)
+
+Jenis Kelamin KRT
+
+Laki-Laki                 0,28         40,042
+
+Perempuan                 ~0           ̶
+
+Distribusi Pengeluaran
+
+40 Persen Terbawah        0,25         71,273
+
+40 Persen Menengah        0,56         54,603
+
+20 Persen Teratas         0,33         80,013
+
+Pendidikan Tertinggi KRT
+
+SD ke Bawah               0,30         63,693
+
+SMP ke Atas               0,42         51,543
+
+Musi Rawas Utara          0,25         40,022
+
+Catatan: 1Lainnya termasuk listrik non-PLN dan bukan listrik
+          2Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+          3Jika RSE >50%, estimasi dianggap tidak akurat
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+106                Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                      Relative Standard Error (RSE) Persentase Penduduk Berumur 5
+
+Lampiran        27    Tahun ke Atas Menurut Karakteristik dan Penggunaan
+                      Teknologi Informasi dalam Tiga Bulan Terakhir Kabupaten
+
+                      Musi Rawas Utara, 2026
+
+Karakteristik         Pernah Menggunakan Telepon    Pernah Menggunakan Internet
+                        Seluler (HP)/Nirkabel atau       (Termasuk Facebook, X,
+                          Komputer (PC/Desktop,
+                        Laptop/Notebook, Tablet)    Youtube, Instagram, WhatsApp,
+                                                                      dll)
+
+           (1)        (2)                           (3)
+
+Jenis Kelamin
+
+Laki-Laki             1,55                          2,49
+
+Perempuan             1,94                          2,79
+
+Kelompok Pengeluaran
+
+40 Persen Terbawah    2,65                          4,00
+
+40 Persen Menengah    1,92                          3,05
+
+20 Persen Teratas     2,82                          5,19
+
+Pendidikan Tertinggi
+
+SD ke Bawah           2,55                          4,02
+
+SMP ke Atas           0,87                          1,60
+
+Musi Rawas Utara      1,41                          2,25
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                                                       107
+                         Relative Standard Error (RSE) Persentase Rumah Tangga yang
+Lampiran 28 Menerima Kredit dalam Setahun Terakhir Menurut Jenis Kredit
+
+                         Kabupaten Musi Rawas Utara, 2026
+
+          Jenis Kredit           Persentase Rumah Tangga yang
+                                              Menerima
+
+          (1)                    (2)
+
+Kredit Usaha Rakyat (KUR)        33,251
+
+Selain KUR Bersumber dari Bank2  28,321
+
+Lainnya3                         20,36
+
+Catatan: 1Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+           2Selain KUR Bersumber dari Bank terdiri dari: Kredit dari bank umum selain KUR dan Bank
+           Perkreditan Rakyat (BPR).
+          3Lainnya terdiri dari: Kredit dari koperasi, perorangan dengan bunga, pegadaian,
+           perusahaan leasing, Badan Usaha Milik Desa (BUMDes), pinjaman online, PNM-Mekaar,
+           dan lainnya.
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+108       Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lampiran         Relative Standard Error (RSE) Persentase Rumah Tangga
+          29 Menurut Jenis Program Perlindungan Sosial yang Diterima
+
+                 Kabupaten Musi Rawas Utara, 2026
+
+Jenis Program Perlindungan Sosial         Persentase Rumah Tangga
+                                                yang Menerima
+
+          (1)                             (2)
+
+Bantuan Pangan (BPNT/Program Sembako) 1   17,45
+
+Bantuan Program Keluarga Harapan (PKH) 2  12,97
+
+Catatan: 1Referensi waktu adalah selama empat bulan terakhir
+          2Referensi waktu adalah selama satu tahun terakhir
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                                                       109
+Lampiran         Relative Standard Error (RSE) Persentase Rumah Tangga Menurut
+          30 Jenis Jaminan Sosial yang Dimiliki atau Diterima Kabupaten Musi
+
+                 Rawas Utara, 2026
+
+          Jenis Jaminan Sosial             Persentase Rumah Tangga
+
+                              (1)            (2)
+Jaminan Pensiun/Hari Tua2                  27,021
+
+Asuransi/ Pemutusan Hubungan Kerja (PHK)3  18,72
+
+Catatan: 1Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+           2Jaminan Pensiun/Hari Tua terdiri dari: Jaminan pensiun/veteran dan jaminan hari tua.
+           3Asuransi/Pemutusan Hubungan Kerja (PHK) terdiri dari: Jaminan/asuransi kecelakaan
+            kerja, jaminan/asuransi kematian, Jaminan Kehilangan Pekerjaan (JKP), dan pesangon
+            PHK.
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+110       Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lampiran         31  Relative Standard Error (RSE) Persentase Rumah Tangga Menurut
+                     Jenis Aset yang Dimiliki Kabupaten Musi Rawas Utara, 2026
+
+                 Jenis Aset   Persentase Rumah Tangga
+
+                     (1)      (2)
+
+Aset Fasilitas Rumah Tangga1  3,11
+
+Aset Transportasi2            1,86
+
+Aset Investasi3               1,52
+
+Catatan: 1Aset Fasilitas Rumah Tangga terdiri dari: Tabung gas 5,5 kg atau lebih, lemari es/kulkas,
+              AC, pemanas air, dan TV layar datar minimal 30 inci.
+
+           2Aset Transportasi terdiri dari: Sepeda motor, perahu, perahu motor, dan mobil.
+           3Aset Investasi terdiri dari: Emas/perhiasan minimal 10 gram, tanah/lahan, dan uang
+           tunai/tabungan senilai 10 gram emas.
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                               111
+                            Relative Standard Error (RSE) Rata-Rata Pengeluaran per
+
+Lampiran 32 Kapita Sebulan Menurut Kelompok Komoditas dan
+
+                            Distribusi Pengeluaran (rupiah) Kabupaten Musi Rawas
+                            Utara, 2026
+
+                                      Distribusi Pengeluaran              Total
+                                                                       Rata-Rata
+     Kelompok Komoditas       40 Persen  40 Persen   20 Persen        Pengeluaran
+                              Terbawah   Menengah     Teratas
+           (1)                                                              (5)
+                                  (2)         (3)        (4)               1,82
+1. Padi-padian                  2,67         2,54       4,12               6,62
+                                9,97         8,69      14,28
+2. Umbi-umbian                                                             3,12
+
+3.   Ikan/Udang/              5,93       4,50                 5,42         5,72
+     Cumi/Kerang                                                           7,70
+                                                                           2,57
+4. Daging                     5,66       7,51                 12,01        3,94
+                                                                           4,26
+5. Telur dan Susu             8,69       13,22                14,52        2,59
+                                                                           2,93
+6. Sayur-sayuran              3,12       3,22                 5,56         3,82
+                                                                           4,40
+7. Kacang-kacangan            6,42       5,89                 7,40
+                                                                           2,71
+8. Buah-buahan                7,17       6,17                 6,14
+                                                                           4,96
+9. Minyak dan Kelapa          3,65       3,78                 6,06
+
+10. Bahan Minuman             4,06       4,87                 5,71
+
+11. Bumbu-bumbuan             5,45       5,01                 8,25
+
+12. Bahan Makanan Lainnya     4,99       6,26                 9,47
+
+13.  Makanan dan              4,66       3,24                 4,49
+     Minuman Jadi
+
+14. Rokok dan Tembakau        8,01       7,71                 7,90
+
+     Jumlah Makanan            1,73       1,52                 2,41    1,73
+
+15.  Perumahan dan Fasilitas   4,81       2,64                 6,14    3,44
+     Rumah Tangga              5,66       6,10                 9,91    4,61
+                               5,81       5,19                 8,48    3,98
+16. Aneka Barang dan Jasa     14,52      19,39                19,45   13,42
+                               5,08       7,95                 9,98    5,36
+17.  Pakaian, Alas Kaki, dan  50,162     48,301               52,192  34,971
+     Tutup Kepala              4,06       2,47                 4,92    3,18
+
+18. Barang Tahan Lama
+
+19.  Pajak, Pungutan, dan
+     Asuransi
+
+20.  Keperluan Pesta dan
+     Upacara/Kenduri
+
+     Jumlah Bukan Makanan
+
+     Rata-Rata Pengeluaran    1,98       1,08                 1,32             1,92
+        Musi Rawas Utara
+
+Catatan: 1Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+
+     2Jika RSE >50%, estimasi dianggap tidak akurat
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+112                Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+                           Relative Standard Error (RSE) Rata-Rata Konsumsi Kalori per
+                           Kapita Sehari Menurut Kelompok Komoditas Makanan dan
+Lampiran 33
+                           Distribusi Pengeluaran (kkal) Kabupaten Musi Rawas Utara,
+                           2026
+
+     Kelompok Komoditas          Distribusi Pengeluaran           Total
+            Makanan                                             Rata-Rata
+                          40 Persen 40 Persen  20 Persen        Konsumsi
+                          Terbawah Menengah     Teratas
+                                                                  Kalori
+
+               (1)        (2)    (3)                     (4)    (5)
+1. Padi-padian
+                          2,60   2,43                    4,36   1,82
+
+2. Umbi-umbian            10,97  12,80                   18,11  8,43
+
+3.   Ikan/Udang/          5,72   5,01                    6,41   3,29
+     Cumi/Kerang
+
+4. Daging                 5,44   5,61                    7,35   3,82
+
+5. Telur dan Susu         7,18   10,54                   9,80   5,77
+
+6. Sayur-sayuran          5,77   4,64                    6,83   3,36
+
+7. Kacang-kacangan        6,77   7,20                    8,36   4,57
+
+8. Buah-buahan            7,32   6,65                    7,90   4,42
+
+9. Minyak dan Kelapa      3,69   3,70                    5,69   2,55
+
+10. Bahan Minuman         3,82   5,00                    7,39   3,10
+
+11. Bumbu-bumbuan         13,50  7,46                    12,40  6,66
+
+12. Bahan Makanan Lainnya 5,92   6,48                    10,17  4,46
+
+13.  Makanan dan Minuman  4,08   3,75                    4,79   2,49
+     Jadi
+
+14. Rokok dan Tembakau    ̶      ̶                       ̶                     ̶
+
+     Rata-Rata Konsumsi   1,67   1,53                    2,91   1,37
+      Musi Rawas Utara
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+Lampiran                                                                          113
+                            Relative Standard Error (RSE) Rata-Rata Konsumsi Protein per
+                            Kapita Sehari Menurut Kelompok Komoditas Makanan dan
+Lampiran 34
+                            Distribusi Pengeluaran (gram) Kabupaten Musi Rawas Utara,
+                            2026
+
+     Kelompok Komoditas          Distribusi Pengeluaran            Total
+            Makanan                                              Rata-Rata
+                           40 Persen  40 Persen  20 Persen       Konsumsi
+                (1)        Terbawah   Menengah    Teratas
+                                                                  Protein
+                               (2)         (3)       (4)
+                                                                     (5)
+
+1. Padi-padian             2,57       2,47               4,35                  1,83
+
+2. Umbi-umbian             9,96       10,02              18,45                 7,52
+
+3.   Ikan/Udang/           5,96       5,04               6,67                  3,37
+     Cumi/Kerang
+
+4. Daging                  5,53       5,68               9,22                  4,29
+
+5. Telur dan Susu          5,54       9,29               8,85                  5,10
+
+6. Sayur-sayuran           5,79       5,01               7,84                  3,56
+
+7. Kacang-kacangan         6,50       5,87               7,69                  3,97
+
+8. Buah-buahan             8,87       6,64               6,91                  4,52
+
+9. Minyak dan Kelapa       17,01      17,19              26,811  11,09
+
+10. Bahan Minuman          9,72       7,92               13,48                 5,68
+
+11. Bumbu-bumbuan          11,49      7,21               12,76                 6,11
+
+12. Bahan Makanan Lainnya  5,08       6,30               9,58                  4,14
+
+13.  Makanan dan           4,43       5,95               9,88                  4,00
+     Minuman Jadi
+
+14. Rokok dan Tembakau     ̶          ̶                  ̶                      ̶
+
+     Rata-Rata Konsumsi    1,72       2,18               3,68                  1,70
+      Musi Rawas Utara
+
+Catatan: 1Jika RSE >25% tetapi ≤50%, estimasi harus digunakan dengan hati-hati
+
+Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret
+
+114                Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+LLaamnjpuitraannL3a5mKpuierasino3n5er VSEN26.K
+
+Lampiran                                        115
+Lanjutan Lampiran 35
+
+116  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 35
+
+Lampiran              117
+Lanjutan Lampiran 35
+
+118  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 35
+
+Lampiran              119
+Lanjutan Lampiran 35
+
+120  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 35
+
+Lampiran              121
+Lanjutan Lampiran 35
+
+122  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 35
+
+Lampiran              123
+Lanjutan Lampiran 35
+
+124  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 35
+
+Lampiran              125
+Lanjutan Lampiran 35
+
+126  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 35
+
+Lampiran              127
+Lanjutan Lampiran 35
+
+128  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 35
+
+Lampiran              129
+Lanjutan Lampiran 35
+
+130  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 35
+
+Lampiran              131
+Lanjutan Lampiran 35
+
+132  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 35
+
+Lampiran              133
+Lanjutan Lampiran 35
+
+134  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 35
+
+Lampiran              135
+Lanjutan Lampiran 35
+
+136  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 35
+
+Lampiran              137
+Lanjutan Lampiran 35
+
+138  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 35
+
+Lampiran              139
+Lanjutan Lampiran 35
+
+140  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+LLaamnjpuitraannL3a6mKpuierasino3n6er VSEN26.KP
+
+Lampiran                                         141
+Lanjutan Lampiran 36
+
+142  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 36
+
+Lampiran              143
+Lanjutan Lampiran 36
+
+144  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 36
+
+Lampiran              145
+Lanjutan Lampiran 36
+
+146  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 36
+
+Lampiran              147
+Lanjutan Lampiran 36
+
+148  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 36
+
+Lampiran              149
+Lanjutan Lampiran 36
+
+150  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 36
+
+Lampiran              151
+Lanjutan Lampiran 36
+
+152  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 36
+
+Lampiran              153
+Lanjutan Lampiran 36
+
+154  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 36
+
+Lampiran              155
+Lanjutan Lampiran 36
+
+156  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 36
+
+Lampiran              157
+Lanjutan Lampiran 36
+
+158  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 36
+
+Lampiran              159
+Lanjutan Lampiran 36
+
+160  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 36
+
+Lampiran              161
+Lanjutan Lampiran 36
+
+162  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 36
+
+Lampiran              163
+Lanjutan Lampiran 36
+
+164  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 36
+
+Lampiran              165
+Lanjutan Lampiran 36
+
+166  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+Lanjutan Lampiran 36
+
+Lampiran              167
+Lanjutan Lampiran 36
+
+168  Statistik Kesejahteraan Rakyat Kabupaten Musi Rawas Utara 2026
+PEMBATAS DAFTAR PUSTAKA
+
